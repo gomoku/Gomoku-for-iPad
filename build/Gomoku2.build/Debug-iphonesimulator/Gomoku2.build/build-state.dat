@@ -1,0 +1,1037 @@
+TGomoku2
+v7
+r0
+t321563398.649895
+cCheck dependencies
+cProcessInfoPlistFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app/Info.plist Gomoku2-Info.plist
+cCompileXIB /Users/Administrator/Dev/Gomoku2/MainWindow.xib
+cCompileXIB /Users/Administrator/Dev/Gomoku2/Gomoku2ViewController.xib
+cCpResource build/Debug-iphonesimulator/Gomoku2.app/HumanTopRight.png HumanTopRight.png
+cCpResource build/Debug-iphonesimulator/Gomoku2.app/HumanTopLeft.png HumanTopLeft.png
+cCpResource build/Debug-iphonesimulator/Gomoku2.app/HumanTop.png HumanTop.png
+cCpResource build/Debug-iphonesimulator/Gomoku2.app/HumanRight.png HumanRight.png
+cCpResource build/Debug-iphonesimulator/Gomoku2.app/HumanLeft.png HumanLeft.png
+cCpResource build/Debug-iphonesimulator/Gomoku2.app/HumanBottomRight.png HumanBottomRight.png
+cCpResource build/Debug-iphonesimulator/Gomoku2.app/HumanBottomLeft.png HumanBottomLeft.png
+cCpResource build/Debug-iphonesimulator/Gomoku2.app/HumanBottom.png HumanBottom.png
+cCpResource build/Debug-iphonesimulator/Gomoku2.app/Human.png Human.png
+cCpResource build/Debug-iphonesimulator/Gomoku2.app/Gomoku.png Gomoku.png
+cCpResource build/Debug-iphonesimulator/Gomoku2.app/EmptyTopRight.png EmptyTopRight.png
+cCpResource build/Debug-iphonesimulator/Gomoku2.app/EmptyTopLeft.png EmptyTopLeft.png
+cCpResource build/Debug-iphonesimulator/Gomoku2.app/EmptyTop.png EmptyTop.png
+cCpResource build/Debug-iphonesimulator/Gomoku2.app/EmptyRight.png EmptyRight.png
+cCpResource build/Debug-iphonesimulator/Gomoku2.app/EmptyLeft.png EmptyLeft.png
+cCpResource build/Debug-iphonesimulator/Gomoku2.app/EmptyBottomRight.png EmptyBottomRight.png
+cCpResource build/Debug-iphonesimulator/Gomoku2.app/EmptyBottomLeft.png EmptyBottomLeft.png
+cCpResource build/Debug-iphonesimulator/Gomoku2.app/EmptyBottom.png EmptyBottom.png
+cCpResource build/Debug-iphonesimulator/Gomoku2.app/Empty.png Empty.png
+cCpResource build/Debug-iphonesimulator/Gomoku2.app/ComputerTopRight.png ComputerTopRight.png
+cCpResource build/Debug-iphonesimulator/Gomoku2.app/ComputerTopLeft.png ComputerTopLeft.png
+cCpResource build/Debug-iphonesimulator/Gomoku2.app/ComputerTop.png ComputerTop.png
+cCpResource build/Debug-iphonesimulator/Gomoku2.app/ComputerRight.png ComputerRight.png
+cCpResource build/Debug-iphonesimulator/Gomoku2.app/ComputerLeft.png ComputerLeft.png
+cCpResource build/Debug-iphonesimulator/Gomoku2.app/ComputerBottomRight.png ComputerBottomRight.png
+cCpResource build/Debug-iphonesimulator/Gomoku2.app/ComputerBottomLeft.png ComputerBottomLeft.png
+cCpResource build/Debug-iphonesimulator/Gomoku2.app/ComputerBottom.png ComputerBottom.png
+cCpResource build/Debug-iphonesimulator/Gomoku2.app/Computer.png Computer.png
+cCpResource build/Debug-iphonesimulator/Gomoku2.app/Default-Landscape.png Default-Landscape.png
+cCpResource build/Debug-iphonesimulator/Gomoku2.app/Icon-72.png Icon-72.png
+cProcessPCH /var/folders/Tc/Tc7ROGoiFQCvJRnWVF4Wdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gomoku2_Prefix-emerznxqektxkdbrjowcabfuhifq/Gomoku2_Prefix.pch.gch Gomoku2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Objects-normal/i386/main.o /Users/Administrator/Dev/Gomoku2/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Objects-normal/i386/Gomoku2AppDelegate.o /Users/Administrator/Dev/Gomoku2/Classes/Gomoku2AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Objects-normal/i386/Gomoku2ViewController.o /Users/Administrator/Dev/Gomoku2/Classes/Gomoku2ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Objects-normal/i386/Controller.o /Users/Administrator/Dev/Gomoku2/Classes/Controller.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Objects-normal/i386/Cell.o /Users/Administrator/Dev/Gomoku2/Classes/Cell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Objects-normal/i386/MainBoard.o /Users/Administrator/Dev/Gomoku2/Classes/MainBoard.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Objects-normal/i386/DifficultyPanel.o /Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanel.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Objects-normal/i386/DifficultyPanelTableController.o /Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app/Gomoku2 normal i386
+cGenerateDSYMFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app.dSYM /Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app/Gomoku2
+cTouch /Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004D3487A40000000000000110
+t1295288228
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/Administrator/Dev/Gomoku2/Classes/Board.h
+c000000004D71CCA0000000000000101F
+t1299303584
+s4127
+i<Foundation/Foundation.h>
+
+N/Users/Administrator/Dev/Gomoku2/Classes/Board.m
+c000000004D725E5D0000000000003C60
+t1299340893
+s15456
+i"Board.h"
+
+N/Users/Administrator/Dev/Gomoku2/Classes/Cell.h
+c000000004D71CFD00000000000000155
+t1299304400
+s341
+i<UIKit/UIKit.h>
+
+N/Users/Administrator/Dev/Gomoku2/Classes/Cell.m
+c000000004D71CFCA00000000000002FB
+t1299304394
+s763
+i"Cell.h"
+
+N/Users/Administrator/Dev/Gomoku2/Classes/CellView.h
+c000000004D71C9C1000000000000012F
+t1299302849
+s303
+i<UIKit/UIKit.h>
+
+N/Users/Administrator/Dev/Gomoku2/Classes/CellView.m
+c000000004D71C9C10000000000000303
+t1299302849
+s771
+i"CellView.h"
+
+N/Users/Administrator/Dev/Gomoku2/Classes/Controller.h
+c000000004D7A552A00000000000006B4
+t1299862826
+s1716
+i"Cell.h"
+i"Board.h"
+i"MainBoard.h"
+i"DifficultyPanel.h"
+
+N/Users/Administrator/Dev/Gomoku2/Classes/Controller.m
+c000000004D7A6DD800000000000011D0
+t1299869144
+s4560
+i"Controller.h"
+i<UIKit/UIKit.h>
+
+N/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanel.h
+c000000004D7A5CB10000000000000254
+t1299864753
+s596
+i<UIKit/UIKit.h>
+i"MainBoard.h"
+i"DifficultyPanelTableController.h"
+
+N/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanel.m
+c000000004D7A70F20000000000000352
+t1299869938
+s850
+i"DifficultyPanel.h"
+
+N/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.h
+c000000004D7A6AA1000000000000031E
+t1299868321
+s798
+i<UIKit/UIKit.h>
+i"DifficultyPanel.h"
+
+N/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m
+c000000004D7A70A200000000000017C0
+t1299869858
+s6080
+i"DifficultyPanelTableController.h"
+
+N/Users/Administrator/Dev/Gomoku2/Classes/Gomoku2AppDelegate.h
+c000000004D71FA1000000000000001E0
+t1299315216
+s480
+i<UIKit/UIKit.h>
+
+N/Users/Administrator/Dev/Gomoku2/Classes/Gomoku2AppDelegate.m
+c000000004D71EF5B00000000000007B6
+t1299312475
+s1974
+i"Gomoku2AppDelegate.h"
+i"Gomoku2ViewController.h"
+
+N/Users/Administrator/Dev/Gomoku2/Classes/Gomoku2ViewController.h
+c000000004D72087B000000000000020C
+t1299318907
+s524
+i<UIKit/UIKit.h>
+i"Controller.h"
+
+N/Users/Administrator/Dev/Gomoku2/Classes/Gomoku2ViewController.m
+c000000004D7A550B0000000000000733
+t1299862795
+s1843
+i"Gomoku2ViewController.h"
+
+N/Users/Administrator/Dev/Gomoku2/Classes/MainBoard.h
+c000000004D725C3E0000000000000A8C
+t1299340350
+s2700
+i"Cell.h"
+i"Board.h"
+
+N/Users/Administrator/Dev/Gomoku2/Classes/MainBoard.m
+c000000004D736A2A0000000000001877
+t1299409450
+s6263
+i"MainBoard.h"
+i"Board.m"
+
+N/Users/Administrator/Dev/Gomoku2/Computer.png
+c000000003D9F39030000000000000BC5
+t1033844995
+s3013
+
+N/Users/Administrator/Dev/Gomoku2/ComputerBottom.png
+c000000003D9F39030000000000000BBB
+t1033844995
+s3003
+
+N/Users/Administrator/Dev/Gomoku2/ComputerBottomLeft.png
+c000000003D9F39030000000000000BAA
+t1033844995
+s2986
+
+N/Users/Administrator/Dev/Gomoku2/ComputerBottomRight.png
+c000000003D9F39030000000000000BB4
+t1033844995
+s2996
+
+N/Users/Administrator/Dev/Gomoku2/ComputerLeft.png
+c000000003D9F39030000000000000BB5
+t1033844995
+s2997
+
+N/Users/Administrator/Dev/Gomoku2/ComputerRight.png
+c000000003D9F39030000000000000BBD
+t1033844995
+s3005
+
+N/Users/Administrator/Dev/Gomoku2/ComputerTop.png
+c000000003D9F39030000000000000BAE
+t1033844995
+s2990
+
+N/Users/Administrator/Dev/Gomoku2/ComputerTopLeft.png
+c000000003D9F39030000000000000B9C
+t1033844995
+s2972
+
+N/Users/Administrator/Dev/Gomoku2/ComputerTopRight.png
+c000000003D9F39030000000000000BA4
+t1033844995
+s2980
+
+N/Users/Administrator/Dev/Gomoku2/Default-Landscape.png
+c000000004D7A3E7300000000000093F8
+t1299857011
+s37880
+
+N/Users/Administrator/Dev/Gomoku2/Empty.png
+c000000003D9F39030000000000000735
+t1033844995
+s1845
+
+N/Users/Administrator/Dev/Gomoku2/EmptyBottom.png
+c000000003D9F390300000000000006F6
+t1033844995
+s1782
+
+N/Users/Administrator/Dev/Gomoku2/EmptyBottomLeft.png
+c000000003D9F390300000000000006DF
+t1033844995
+s1759
+
+N/Users/Administrator/Dev/Gomoku2/EmptyBottomRight.png
+c000000003D9F390300000000000006AC
+t1033844995
+s1708
+
+N/Users/Administrator/Dev/Gomoku2/EmptyLeft.png
+c000000003D9F3903000000000000070F
+t1033844995
+s1807
+
+N/Users/Administrator/Dev/Gomoku2/EmptyRight.png
+c000000003D9F390300000000000006D9
+t1033844995
+s1753
+
+N/Users/Administrator/Dev/Gomoku2/EmptyTop.png
+c000000003D9F390300000000000006E6
+t1033844995
+s1766
+
+N/Users/Administrator/Dev/Gomoku2/EmptyTopLeft.png
+c000000003D9F390300000000000006BA
+t1033844995
+s1722
+
+N/Users/Administrator/Dev/Gomoku2/EmptyTopRight.png
+c000000003D9F390300000000000006B1
+t1033844995
+s1713
+
+N/Users/Administrator/Dev/Gomoku2/Gomoku.png
+c000000003D9F39030000000000000D5F
+t1033844995
+s3423
+
+N/Users/Administrator/Dev/Gomoku2/Gomoku2ViewController.xib
+c000000004D7A719600000000000066FD
+t1299870102
+s26365
+
+N/Users/Administrator/Dev/Gomoku2/Gomoku2_Prefix.pch
+c000000004D712C7300000000000000B7
+t1299262579
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Administrator/Dev/Gomoku2/Human.png
+c000000003D9F39030000000000000BCE
+t1033844995
+s3022
+
+N/Users/Administrator/Dev/Gomoku2/HumanBottom.png
+c000000003D9F39030000000000000BC3
+t1033844995
+s3011
+
+N/Users/Administrator/Dev/Gomoku2/HumanBottomLeft.png
+c000000003D9F39030000000000000BB2
+t1033844995
+s2994
+
+N/Users/Administrator/Dev/Gomoku2/HumanBottomRight.png
+c000000003D9F39030000000000000BB7
+t1033844995
+s2999
+
+N/Users/Administrator/Dev/Gomoku2/HumanLeft.png
+c000000003D9F39030000000000000BBC
+t1033844995
+s3004
+
+N/Users/Administrator/Dev/Gomoku2/HumanRight.png
+c000000003D9F39030000000000000BC2
+t1033844995
+s3010
+
+N/Users/Administrator/Dev/Gomoku2/HumanTop.png
+c000000003D9F39030000000000000BBD
+t1033844995
+s3005
+
+N/Users/Administrator/Dev/Gomoku2/HumanTopLeft.png
+c000000003D9F39030000000000000BAB
+t1033844995
+s2987
+
+N/Users/Administrator/Dev/Gomoku2/HumanTopRight.png
+c000000003D9F39030000000000000BB2
+t1033844995
+s2994
+
+N/Users/Administrator/Dev/Gomoku2/Icon-72.png
+c000000004D7A439D00000000000004C5
+t1299858333
+s1221
+
+N/Users/Administrator/Dev/Gomoku2/MainWindow.xib
+c000000004D712C730000000000004D09
+t1299262579
+s19721
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app
+t1299870598
+s1258
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app.dSYM
+t1299870061
+s102
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app/Computer.png
+t1299302243
+s3013
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app/ComputerBottom.png
+t1299302243
+s3003
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app/ComputerBottomLeft.png
+t1299302243
+s2986
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app/ComputerBottomRight.png
+t1299302243
+s2996
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app/ComputerLeft.png
+t1299302243
+s2997
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app/ComputerRight.png
+t1299302243
+s3005
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app/ComputerTop.png
+t1299302243
+s2990
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app/ComputerTopLeft.png
+t1299302243
+s2972
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app/ComputerTopRight.png
+t1299302243
+s2980
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app/Default-Landscape.png
+t1299857302
+s37880
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app/Empty.png
+t1299302243
+s1845
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app/EmptyBottom.png
+t1299302243
+s1782
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app/EmptyBottomLeft.png
+t1299302243
+s1759
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app/EmptyBottomRight.png
+t1299302243
+s1708
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app/EmptyLeft.png
+t1299302243
+s1807
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app/EmptyRight.png
+t1299302243
+s1753
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app/EmptyTop.png
+t1299302243
+s1766
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app/EmptyTopLeft.png
+t1299302243
+s1722
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app/EmptyTopRight.png
+t1299302243
+s1713
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app/Gomoku.png
+t1299302243
+s3423
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app/Gomoku2
+t1299870061
+s64688
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app/Gomoku2ViewController.nib
+t1299870598
+s1860
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app/Human.png
+t1299302243
+s3022
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app/HumanBottom.png
+t1299302243
+s3011
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app/HumanBottomLeft.png
+t1299302242
+s2994
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app/HumanBottomRight.png
+t1299302242
+s2999
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app/HumanLeft.png
+t1299302242
+s3004
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app/HumanRight.png
+t1299302243
+s3010
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app/HumanTop.png
+t1299302242
+s3005
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app/HumanTopLeft.png
+t1299302243
+s2987
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app/HumanTopRight.png
+t1299302243
+s2994
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app/Icon-72.png
+t1299858354
+s1221
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app/Info.plist
+t1299345539
+s711
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app/MainWindow.nib
+t1299302242
+s1123
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app/PkgInfo
+t1299345539
+s8
+
+N/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Objects-normal/i386/Cell.o
+t1299304403
+s39328
+
+N/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Objects-normal/i386/CellView.o
+t1299302849
+s39452
+
+N/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Objects-normal/i386/Controller.o
+t1299869174
+s53808
+
+N/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Objects-normal/i386/DifficultyPanel.o
+t1299870060
+s46736
+
+N/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Objects-normal/i386/DifficultyPanelTableController.o
+t1299870061
+s52548
+
+N/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Objects-normal/i386/Gomoku2.LinkFileList
+c000000004D71E73200000000000003EF
+t1299310386
+s1007
+
+N/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Objects-normal/i386/Gomoku2AppDelegate.o
+t1299869174
+s51424
+
+N/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Objects-normal/i386/Gomoku2ViewController.o
+t1299869174
+s44300
+
+N/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Objects-normal/i386/MainBoard.o
+t1299857304
+s83716
+
+N/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Objects-normal/i386/main.o
+t1299302245
+s6292
+
+N/Users/Administrator/Dev/Gomoku2/main.m
+c000000004D712C730000000000000169
+t1299262579
+s361
+i<UIKit/UIKit.h>
+
+N/var/folders/Tc/Tc7ROGoiFQCvJRnWVF4Wdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gomoku2_Prefix-emerznxqektxkdbrjowcabfuhifq/Gomoku2_Prefix.pch.gch
+t1299302245
+s15453392
+
+NGomoku2-Info.plist
+c000000004D7270710000000000000437
+t1299345521
+s1079
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies321563398#321563398#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Objects-normal/i386/Cell.o /Users/Administrator/Dev/Gomoku2/Classes/Cell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320997202.961502
+e320997203.192207
+r1
+xCompileC
+xbuild/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Objects-normal/i386/Cell.o
+x/Users/Administrator/Dev/Gomoku2/Classes/Cell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/Administrator/Dev/Gomoku2/Classes/Cell.m320997202#320997203#0(0"0(0#0#47"/Users/Administrator/Dev/Gomoku2/Classes/Cell.m8676056320#1856"    cd /Users/Administrator/Dev/Gomoku2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Gomoku2-generated-files.hmap -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Gomoku2-own-target-headers.hmap -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Gomoku2-all-target-headers.hmap -iquote /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Gomoku2-project-headers.hmap -F/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator -I/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/include -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/DerivedSources/i386 -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/DerivedSources -include /var/folders/Tc/Tc7ROGoiFQCvJRnWVF4Wdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gomoku2_Prefix-emerznxqektxkdbrjowcabfuhifq/Gomoku2_Prefix.pch -c /Users/Administrator/Dev/Gomoku2/Classes/Cell.m -o /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Objects-normal/i386/Cell.o0#
+
+CCompileC build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Objects-normal/i386/CellView.o /Users/Administrator/Dev/Gomoku2/Classes/CellView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320995649.312498
+e320995649.495353
+r1
+xCompileC
+xbuild/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Objects-normal/i386/CellView.o
+x/Users/Administrator/Dev/Gomoku2/Classes/CellView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/Administrator/Dev/Gomoku2/Classes/CellView.m320995649#320995649#0(0"0(0#0#51"/Users/Administrator/Dev/Gomoku2/Classes/CellView.m8656837856#1864"    cd /Users/Administrator/Dev/Gomoku2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Gomoku2-generated-files.hmap -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Gomoku2-own-target-headers.hmap -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Gomoku2-all-target-headers.hmap -iquote /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Gomoku2-project-headers.hmap -F/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator -I/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/include -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/DerivedSources/i386 -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/DerivedSources -include /var/folders/Tc/Tc7ROGoiFQCvJRnWVF4Wdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gomoku2_Prefix-emerznxqektxkdbrjowcabfuhifq/Gomoku2_Prefix.pch -c /Users/Administrator/Dev/Gomoku2/Classes/CellView.m -o /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Objects-normal/i386/CellView.o0#
+
+CCompileC build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Objects-normal/i386/Controller.o /Users/Administrator/Dev/Gomoku2/Classes/Controller.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321561974.411930
+e321561974.643079
+r1
+xCompileC
+xbuild/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Objects-normal/i386/Controller.o
+x/Users/Administrator/Dev/Gomoku2/Classes/Controller.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/Administrator/Dev/Gomoku2/Classes/Controller.m321561974#321561974#0(0"0(0#0#53"/Users/Administrator/Dev/Gomoku2/Classes/Controller.m8675885152#1868"    cd /Users/Administrator/Dev/Gomoku2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Gomoku2-generated-files.hmap -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Gomoku2-own-target-headers.hmap -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Gomoku2-all-target-headers.hmap -iquote /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Gomoku2-project-headers.hmap -F/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator -I/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/include -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/DerivedSources/i386 -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/DerivedSources -include /var/folders/Tc/Tc7ROGoiFQCvJRnWVF4Wdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gomoku2_Prefix-emerznxqektxkdbrjowcabfuhifq/Gomoku2_Prefix.pch -c /Users/Administrator/Dev/Gomoku2/Classes/Controller.m -o /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Objects-normal/i386/Controller.o0#
+
+CCompileC build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Objects-normal/i386/DifficultyPanel.o /Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanel.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321562860.769287
+e321562860.975118
+r1
+xCompileC
+xbuild/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Objects-normal/i386/DifficultyPanel.o
+x/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanel.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanel.m: In function '-[DifficultyPanel initWithBoard:]':
+o/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanel.m:20: warning: incompatible Objective-C types 'struct DifficultyPanel *', expected 'struct DifficultyPanelTableController *' when passing argument 1 of 'initWithDelegate:' from distinct Objective-C type
+lSLF07#2@66"Compile /Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanel.m321562860#321562860#0(369"/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanel.m: In function '-[DifficultyPanel initWithBoard:]':/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanel.m:20: warning: incompatible Objective-C types 'struct DifficultyPanel *', expected 'struct DifficultyPanelTableController *' when passing argument 1 of 'initWithDelegate:' from distinct Objective-C type1(22@187"Incompatible Objective-C types 'struct DifficultyPanel *', expected 'struct DifficultyPanelTableController *' when passing argument 1 of 'initWithDelegate:' from distinct Objective-C type321562860#109#260#0(6@58"/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanel.m321562738#20#0#20#0#0"0(0#0#58"/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanel.m8668891296#1878"    cd /Users/Administrator/Dev/Gomoku2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Gomoku2-generated-files.hmap -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Gomoku2-own-target-headers.hmap -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Gomoku2-all-target-headers.hmap -iquote /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Gomoku2-project-headers.hmap -F/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator -I/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/include -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/DerivedSources/i386 -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/DerivedSources -include /var/folders/Tc/Tc7ROGoiFQCvJRnWVF4Wdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gomoku2_Prefix-emerznxqektxkdbrjowcabfuhifq/Gomoku2_Prefix.pch -c /Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanel.m -o /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Objects-normal/i386/DifficultyPanel.o0#
+
+CCompileC build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Objects-normal/i386/DifficultyPanelTableController.o /Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321562860.841160
+e321562861.073606
+r1
+xCompileC
+xbuild/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Objects-normal/i386/DifficultyPanelTableController.o
+x/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m: In function '-[DifficultyPanelTableController tableView:didSelectRowAtIndexPath:]':
+o/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m:172: warning: 'DifficultyPanelTableController' may not respond to '-changeLevel:'
+o/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m:172: warning: (Messages without a matching method signature
+o/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m:172: warning: will be assumed to return 'id' and accept
+o/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m:172: warning: '...' as arguments.)
+o/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m:175: warning: unused variable 'cell'
+o/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m: In function '-[DifficultyPanelTableController setCellSelectedByIndex:]':
+o/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m:184: warning: unused variable 'cell'
+lSLF07#2@81"Compile /Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m321562860#321562861#0(1058"/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m: In function '-[DifficultyPanelTableController tableView:didSelectRowAtIndexPath:]':/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m:172: warning: 'DifficultyPanelTableController' may not respond to '-changeLevel:'/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m:172: warning: (Messages without a matching method signature/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m:172: warning: will be assumed to return 'id' and accept/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m:172: warning: '...' as arguments.)/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m:175: warning: unused variable 'cell'/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m: In function '-[DifficultyPanelTableController setCellSelectedByIndex:]':/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m:184: warning: unused variable 'cell'4(22@67"'DifficultyPanelTableController' may not respond to '-changeLevel:'321562861#159#156#0(6@73"/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m321562658#172#0#172#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)321562861#315#134#0(6@73"/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m321562658#172#0#172#0#0"0(22@22"Unused variable 'cell'321562861#688#111#0(6@73"/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m321562658#175#0#175#0#19"unused variable '*'0(22@22"Unused variable 'cell'321562861#947#111#0(6@73"/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m321562658#184#0#184#0#19"unused variable '*'0(0#0#73"/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m8672633600#1908"    cd /Users/Administrator/Dev/Gomoku2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Gomoku2-generated-files.hmap -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Gomoku2-own-target-headers.hmap -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Gomoku2-all-target-headers.hmap -iquote /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Gomoku2-project-headers.hmap -F/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator -I/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/include -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/DerivedSources/i386 -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/DerivedSources -include /var/folders/Tc/Tc7ROGoiFQCvJRnWVF4Wdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gomoku2_Prefix-emerznxqektxkdbrjowcabfuhifq/Gomoku2_Prefix.pch -c /Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m -o /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Objects-normal/i386/DifficultyPanelTableController.o0#
+
+CCompileC build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Objects-normal/i386/Gomoku2AppDelegate.o /Users/Administrator/Dev/Gomoku2/Classes/Gomoku2AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321561974.226710
+e321561974.411799
+r1
+xCompileC
+xbuild/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Objects-normal/i386/Gomoku2AppDelegate.o
+x/Users/Administrator/Dev/Gomoku2/Classes/Gomoku2AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/Administrator/Dev/Gomoku2/Classes/Gomoku2AppDelegate.m321561974#321561974#0(0"0(0#0#61"/Users/Administrator/Dev/Gomoku2/Classes/Gomoku2AppDelegate.m8667896416#1884"    cd /Users/Administrator/Dev/Gomoku2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Gomoku2-generated-files.hmap -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Gomoku2-own-target-headers.hmap -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Gomoku2-all-target-headers.hmap -iquote /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Gomoku2-project-headers.hmap -F/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator -I/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/include -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/DerivedSources/i386 -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/DerivedSources -include /var/folders/Tc/Tc7ROGoiFQCvJRnWVF4Wdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gomoku2_Prefix-emerznxqektxkdbrjowcabfuhifq/Gomoku2_Prefix.pch -c /Users/Administrator/Dev/Gomoku2/Classes/Gomoku2AppDelegate.m -o /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Objects-normal/i386/Gomoku2AppDelegate.o0#
+
+CCompileC build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Objects-normal/i386/Gomoku2ViewController.o /Users/Administrator/Dev/Gomoku2/Classes/Gomoku2ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321561974.238633
+e321561974.554071
+r1
+xCompileC
+xbuild/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Objects-normal/i386/Gomoku2ViewController.o
+x/Users/Administrator/Dev/Gomoku2/Classes/Gomoku2ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/Administrator/Dev/Gomoku2/Classes/Gomoku2ViewController.m321561974#321561974#0(0"0(0#0#64"/Users/Administrator/Dev/Gomoku2/Classes/Gomoku2ViewController.m8642226560#1890"    cd /Users/Administrator/Dev/Gomoku2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Gomoku2-generated-files.hmap -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Gomoku2-own-target-headers.hmap -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Gomoku2-all-target-headers.hmap -iquote /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Gomoku2-project-headers.hmap -F/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator -I/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/include -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/DerivedSources/i386 -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/DerivedSources -include /var/folders/Tc/Tc7ROGoiFQCvJRnWVF4Wdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gomoku2_Prefix-emerznxqektxkdbrjowcabfuhifq/Gomoku2_Prefix.pch -c /Users/Administrator/Dev/Gomoku2/Classes/Gomoku2ViewController.m -o /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Objects-normal/i386/Gomoku2ViewController.o0#
+
+CCompileC build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Objects-normal/i386/MainBoard.o /Users/Administrator/Dev/Gomoku2/Classes/MainBoard.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321550104.094257
+e321550104.360136
+r1
+xCompileC
+xbuild/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Objects-normal/i386/MainBoard.o
+x/Users/Administrator/Dev/Gomoku2/Classes/MainBoard.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/Administrator/Dev/Gomoku2/Classes/MainBoard.m321550104#321550104#0(0"0(0#0#52"/Users/Administrator/Dev/Gomoku2/Classes/MainBoard.m8618916480#1866"    cd /Users/Administrator/Dev/Gomoku2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Gomoku2-generated-files.hmap -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Gomoku2-own-target-headers.hmap -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Gomoku2-all-target-headers.hmap -iquote /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Gomoku2-project-headers.hmap -F/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator -I/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/include -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/DerivedSources/i386 -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/DerivedSources -include /var/folders/Tc/Tc7ROGoiFQCvJRnWVF4Wdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gomoku2_Prefix-emerznxqektxkdbrjowcabfuhifq/Gomoku2_Prefix.pch -c /Users/Administrator/Dev/Gomoku2/Classes/MainBoard.m -o /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Objects-normal/i386/MainBoard.o0#
+
+CCompileC build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Objects-normal/i386/main.o /Users/Administrator/Dev/Gomoku2/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320995045.669569
+e320995045.745425
+r1
+xCompileC
+xbuild/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Objects-normal/i386/main.o
+x/Users/Administrator/Dev/Gomoku2/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/Administrator/Dev/Gomoku2/main.m320995045#320995045#0(0"0(0#0#39"/Users/Administrator/Dev/Gomoku2/main.m8622565920#1848"    cd /Users/Administrator/Dev/Gomoku2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Gomoku2-generated-files.hmap -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Gomoku2-own-target-headers.hmap -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Gomoku2-all-target-headers.hmap -iquote /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Gomoku2-project-headers.hmap -F/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator -I/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/include -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/DerivedSources/i386 -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/DerivedSources -include /var/folders/Tc/Tc7ROGoiFQCvJRnWVF4Wdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gomoku2_Prefix-emerznxqektxkdbrjowcabfuhifq/Gomoku2_Prefix.pch -c /Users/Administrator/Dev/Gomoku2/main.m -o /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/Administrator/Dev/Gomoku2/Gomoku2ViewController.xib
+s321563398.188070
+e321563398.645814
+r1
+xCompileXIB
+x/Users/Administrator/Dev/Gomoku2/Gomoku2ViewController.xib
+lSLF07#2@36"CompileXIB Gomoku2ViewController.xib321563398#321563398#0(0"0(0#0#58"/Users/Administrator/Dev/Gomoku2/Gomoku2ViewController.xib30118299256553584#574"    cd /Users/Administrator/Dev/Gomoku2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app/Gomoku2ViewController.nib /Users/Administrator/Dev/Gomoku2/Gomoku2ViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/Administrator/Dev/Gomoku2/MainWindow.xib
+s320995036.415799
+e320995043.002836
+r1
+xCompileXIB
+x/Users/Administrator/Dev/Gomoku2/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib320995036#320995043#0(0"0(0#0#47"/Users/Administrator/Dev/Gomoku2/MainWindow.xib8620015328#552"    cd /Users/Administrator/Dev/Gomoku2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app/MainWindow.nib /Users/Administrator/Dev/Gomoku2/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/Gomoku2.app/Computer.png Computer.png
+s320995043.077581
+e320995043.086395
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Gomoku2.app/Computer.png
+xComputer.png
+lSLF07#2@17"Copy Computer.png320995043#320995043#0(0"0(0#0#45"/Users/Administrator/Dev/Gomoku2/Computer.png8617156224#452"    cd /Users/Administrator/Dev/Gomoku2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Administrator/Dev/Gomoku2/Computer.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app0#
+
+CCpResource build/Debug-iphonesimulator/Gomoku2.app/ComputerBottom.png ComputerBottom.png
+s320995043.071351
+e320995043.086265
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Gomoku2.app/ComputerBottom.png
+xComputerBottom.png
+lSLF07#2@23"Copy ComputerBottom.png320995043#320995043#0(0"0(0#0#51"/Users/Administrator/Dev/Gomoku2/ComputerBottom.png8617746272#458"    cd /Users/Administrator/Dev/Gomoku2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Administrator/Dev/Gomoku2/ComputerBottom.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app0#
+
+CCpResource build/Debug-iphonesimulator/Gomoku2.app/ComputerBottomLeft.png ComputerBottomLeft.png
+s320995043.065926
+e320995043.086135
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Gomoku2.app/ComputerBottomLeft.png
+xComputerBottomLeft.png
+lSLF07#2@27"Copy ComputerBottomLeft.png320995043#320995043#0(0"0(0#0#55"/Users/Administrator/Dev/Gomoku2/ComputerBottomLeft.png8618000128#462"    cd /Users/Administrator/Dev/Gomoku2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Administrator/Dev/Gomoku2/ComputerBottomLeft.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app0#
+
+CCpResource build/Debug-iphonesimulator/Gomoku2.app/ComputerBottomRight.png ComputerBottomRight.png
+s320995043.060503
+e320995043.086002
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Gomoku2.app/ComputerBottomRight.png
+xComputerBottomRight.png
+lSLF07#2@28"Copy ComputerBottomRight.png320995043#320995043#0(0"0(0#0#56"/Users/Administrator/Dev/Gomoku2/ComputerBottomRight.png8618062816#463"    cd /Users/Administrator/Dev/Gomoku2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Administrator/Dev/Gomoku2/ComputerBottomRight.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app0#
+
+CCpResource build/Debug-iphonesimulator/Gomoku2.app/ComputerLeft.png ComputerLeft.png
+s320995043.058943
+e320995043.085851
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Gomoku2.app/ComputerLeft.png
+xComputerLeft.png
+lSLF07#2@21"Copy ComputerLeft.png320995043#320995043#0(0"0(0#0#49"/Users/Administrator/Dev/Gomoku2/ComputerLeft.png8618189696#456"    cd /Users/Administrator/Dev/Gomoku2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Administrator/Dev/Gomoku2/ComputerLeft.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app0#
+
+CCpResource build/Debug-iphonesimulator/Gomoku2.app/ComputerRight.png ComputerRight.png
+s320995043.053030
+e320995043.086649
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Gomoku2.app/ComputerRight.png
+xComputerRight.png
+lSLF07#2@22"Copy ComputerRight.png320995043#320995043#0(0"0(0#0#50"/Users/Administrator/Dev/Gomoku2/ComputerRight.png8619370656#457"    cd /Users/Administrator/Dev/Gomoku2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Administrator/Dev/Gomoku2/ComputerRight.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app0#
+
+CCpResource build/Debug-iphonesimulator/Gomoku2.app/ComputerTop.png ComputerTop.png
+s320995043.051855
+e320995043.086524
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Gomoku2.app/ComputerTop.png
+xComputerTop.png
+lSLF07#2@20"Copy ComputerTop.png320995043#320995043#0(0"0(0#0#48"/Users/Administrator/Dev/Gomoku2/ComputerTop.png8619452768#455"    cd /Users/Administrator/Dev/Gomoku2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Administrator/Dev/Gomoku2/ComputerTop.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app0#
+
+CCpResource build/Debug-iphonesimulator/Gomoku2.app/ComputerTopLeft.png ComputerTopLeft.png
+s320995043.046501
+e320995043.058546
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Gomoku2.app/ComputerTopLeft.png
+xComputerTopLeft.png
+lSLF07#2@24"Copy ComputerTopLeft.png320995043#320995043#0(0"0(0#0#52"/Users/Administrator/Dev/Gomoku2/ComputerTopLeft.png8619600064#459"    cd /Users/Administrator/Dev/Gomoku2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Administrator/Dev/Gomoku2/ComputerTopLeft.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app0#
+
+CCpResource build/Debug-iphonesimulator/Gomoku2.app/ComputerTopRight.png ComputerTopRight.png
+s320995043.045099
+e320995043.058437
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Gomoku2.app/ComputerTopRight.png
+xComputerTopRight.png
+lSLF07#2@25"Copy ComputerTopRight.png320995043#320995043#0(0"0(0#0#53"/Users/Administrator/Dev/Gomoku2/ComputerTopRight.png8619723360#460"    cd /Users/Administrator/Dev/Gomoku2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Administrator/Dev/Gomoku2/ComputerTopRight.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app0#
+
+CCpResource build/Debug-iphonesimulator/Gomoku2.app/Default-Landscape.png Default-Landscape.png
+s321550102.969462
+e321550102.991867
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Gomoku2.app/Default-Landscape.png
+xDefault-Landscape.png
+lSLF07#2@26"Copy Default-Landscape.png321550102#321550102#0(0"0(0#0#54"/Users/Administrator/Dev/Gomoku2/Default-Landscape.png8619796800#461"    cd /Users/Administrator/Dev/Gomoku2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Administrator/Dev/Gomoku2/Default-Landscape.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app0#
+
+CCpResource build/Debug-iphonesimulator/Gomoku2.app/Empty.png Empty.png
+s320995043.040541
+e320995043.058324
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Gomoku2.app/Empty.png
+xEmpty.png
+lSLF07#2@14"Copy Empty.png320995043#320995043#0(0"0(0#0#42"/Users/Administrator/Dev/Gomoku2/Empty.png8606999552#449"    cd /Users/Administrator/Dev/Gomoku2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Administrator/Dev/Gomoku2/Empty.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app0#
+
+CCpResource build/Debug-iphonesimulator/Gomoku2.app/EmptyBottom.png EmptyBottom.png
+s320995043.039572
+e320995043.058214
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Gomoku2.app/EmptyBottom.png
+xEmptyBottom.png
+lSLF07#2@20"Copy EmptyBottom.png320995043#320995043#0(0"0(0#0#48"/Users/Administrator/Dev/Gomoku2/EmptyBottom.png8615262656#455"    cd /Users/Administrator/Dev/Gomoku2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Administrator/Dev/Gomoku2/EmptyBottom.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app0#
+
+CCpResource build/Debug-iphonesimulator/Gomoku2.app/EmptyBottomLeft.png EmptyBottomLeft.png
+s320995043.033617
+e320995043.058100
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Gomoku2.app/EmptyBottomLeft.png
+xEmptyBottomLeft.png
+lSLF07#2@24"Copy EmptyBottomLeft.png320995043#320995043#0(0"0(0#0#52"/Users/Administrator/Dev/Gomoku2/EmptyBottomLeft.png8615531296#459"    cd /Users/Administrator/Dev/Gomoku2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Administrator/Dev/Gomoku2/EmptyBottomLeft.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app0#
+
+CCpResource build/Debug-iphonesimulator/Gomoku2.app/EmptyBottomRight.png EmptyBottomRight.png
+s320995043.030655
+e320995043.057966
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Gomoku2.app/EmptyBottomRight.png
+xEmptyBottomRight.png
+lSLF07#2@25"Copy EmptyBottomRight.png320995043#320995043#0(0"0(0#0#53"/Users/Administrator/Dev/Gomoku2/EmptyBottomRight.png8616672608#460"    cd /Users/Administrator/Dev/Gomoku2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Administrator/Dev/Gomoku2/EmptyBottomRight.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app0#
+
+CCpResource build/Debug-iphonesimulator/Gomoku2.app/EmptyLeft.png EmptyLeft.png
+s320995043.026108
+e320995043.058765
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Gomoku2.app/EmptyLeft.png
+xEmptyLeft.png
+lSLF07#2@18"Copy EmptyLeft.png320995043#320995043#0(0"0(0#0#46"/Users/Administrator/Dev/Gomoku2/EmptyLeft.png8617517952#453"    cd /Users/Administrator/Dev/Gomoku2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Administrator/Dev/Gomoku2/EmptyLeft.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app0#
+
+CCpResource build/Debug-iphonesimulator/Gomoku2.app/EmptyRight.png EmptyRight.png
+s320995043.020436
+e320995043.058656
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Gomoku2.app/EmptyRight.png
+xEmptyRight.png
+lSLF07#2@19"Copy EmptyRight.png320995043#320995043#0(0"0(0#0#47"/Users/Administrator/Dev/Gomoku2/EmptyRight.png8617772768#454"    cd /Users/Administrator/Dev/Gomoku2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Administrator/Dev/Gomoku2/EmptyRight.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app0#
+
+CCpResource build/Debug-iphonesimulator/Gomoku2.app/EmptyTop.png EmptyTop.png
+s320995043.011681
+e320995043.030137
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Gomoku2.app/EmptyTop.png
+xEmptyTop.png
+lSLF07#2@17"Copy EmptyTop.png320995043#320995043#0(0"0(0#0#45"/Users/Administrator/Dev/Gomoku2/EmptyTop.png8617955808#452"    cd /Users/Administrator/Dev/Gomoku2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Administrator/Dev/Gomoku2/EmptyTop.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app0#
+
+CCpResource build/Debug-iphonesimulator/Gomoku2.app/EmptyTopLeft.png EmptyTopLeft.png
+s320995043.003365
+e320995043.029793
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Gomoku2.app/EmptyTopLeft.png
+xEmptyTopLeft.png
+lSLF07#2@21"Copy EmptyTopLeft.png320995043#320995043#0(0"0(0#0#49"/Users/Administrator/Dev/Gomoku2/EmptyTopLeft.png8618208544#456"    cd /Users/Administrator/Dev/Gomoku2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Administrator/Dev/Gomoku2/EmptyTopLeft.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app0#
+
+CCpResource build/Debug-iphonesimulator/Gomoku2.app/EmptyTopRight.png EmptyTopRight.png
+s320995043.001709
+e320995043.030469
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Gomoku2.app/EmptyTopRight.png
+xEmptyTopRight.png
+lSLF07#2@22"Copy EmptyTopRight.png320995043#320995043#0(0"0(0#0#50"/Users/Administrator/Dev/Gomoku2/EmptyTopRight.png8619835040#457"    cd /Users/Administrator/Dev/Gomoku2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Administrator/Dev/Gomoku2/EmptyTopRight.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app0#
+
+CCpResource build/Debug-iphonesimulator/Gomoku2.app/Gomoku.png Gomoku.png
+s320995042.999782
+e320995043.030360
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Gomoku2.app/Gomoku.png
+xGomoku.png
+lSLF07#2@15"Copy Gomoku.png320995043#320995043#0(0"0(0#0#43"/Users/Administrator/Dev/Gomoku2/Gomoku.png8620014208#450"    cd /Users/Administrator/Dev/Gomoku2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Administrator/Dev/Gomoku2/Gomoku.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app0#
+
+CCpResource build/Debug-iphonesimulator/Gomoku2.app/Human.png Human.png
+s320995042.862041
+e320995043.030577
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Gomoku2.app/Human.png
+xHuman.png
+lSLF07#2@14"Copy Human.png320995042#320995043#0(0"0(0#0#42"/Users/Administrator/Dev/Gomoku2/Human.png8622605728#449"    cd /Users/Administrator/Dev/Gomoku2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Administrator/Dev/Gomoku2/Human.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app0#
+
+CCpResource build/Debug-iphonesimulator/Gomoku2.app/HumanBottom.png HumanBottom.png
+s320995042.861295
+e320995043.003191
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Gomoku2.app/HumanBottom.png
+xHumanBottom.png
+lSLF07#2@20"Copy HumanBottom.png320995042#320995043#0(0"0(0#0#48"/Users/Administrator/Dev/Gomoku2/HumanBottom.png8615541920#455"    cd /Users/Administrator/Dev/Gomoku2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Administrator/Dev/Gomoku2/HumanBottom.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app0#
+
+CCpResource build/Debug-iphonesimulator/Gomoku2.app/HumanBottomLeft.png HumanBottomLeft.png
+s320995042.860512
+e320995042.999700
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Gomoku2.app/HumanBottomLeft.png
+xHumanBottomLeft.png
+lSLF07#2@24"Copy HumanBottomLeft.png320995042#320995043#0(0"0(0#0#52"/Users/Administrator/Dev/Gomoku2/HumanBottomLeft.png8618237344#459"    cd /Users/Administrator/Dev/Gomoku2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Administrator/Dev/Gomoku2/HumanBottomLeft.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app0#
+
+CCpResource build/Debug-iphonesimulator/Gomoku2.app/HumanBottomRight.png HumanBottomRight.png
+s320995042.858992
+e320995043.003081
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Gomoku2.app/HumanBottomRight.png
+xHumanBottomRight.png
+lSLF07#2@25"Copy HumanBottomRight.png320995042#320995043#0(0"0(0#0#53"/Users/Administrator/Dev/Gomoku2/HumanBottomRight.png8622890496#460"    cd /Users/Administrator/Dev/Gomoku2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Administrator/Dev/Gomoku2/HumanBottomRight.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app0#
+
+CCpResource build/Debug-iphonesimulator/Gomoku2.app/HumanLeft.png HumanLeft.png
+s320995042.858048
+e320995042.999557
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Gomoku2.app/HumanLeft.png
+xHumanLeft.png
+lSLF07#2@18"Copy HumanLeft.png320995042#320995043#0(0"0(0#0#46"/Users/Administrator/Dev/Gomoku2/HumanLeft.png8623441344#453"    cd /Users/Administrator/Dev/Gomoku2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Administrator/Dev/Gomoku2/HumanLeft.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app0#
+
+CCpResource build/Debug-iphonesimulator/Gomoku2.app/HumanRight.png HumanRight.png
+s320995042.857169
+e320995043.030251
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Gomoku2.app/HumanRight.png
+xHumanRight.png
+lSLF07#2@19"Copy HumanRight.png320995042#320995043#0(0"0(0#0#47"/Users/Administrator/Dev/Gomoku2/HumanRight.png8623480288#454"    cd /Users/Administrator/Dev/Gomoku2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Administrator/Dev/Gomoku2/HumanRight.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app0#
+
+CCpResource build/Debug-iphonesimulator/Gomoku2.app/HumanTop.png HumanTop.png
+s320995042.856242
+e320995043.002965
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Gomoku2.app/HumanTop.png
+xHumanTop.png
+lSLF07#2@17"Copy HumanTop.png320995042#320995043#0(0"0(0#0#45"/Users/Administrator/Dev/Gomoku2/HumanTop.png8622675904#452"    cd /Users/Administrator/Dev/Gomoku2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Administrator/Dev/Gomoku2/HumanTop.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app0#
+
+CCpResource build/Debug-iphonesimulator/Gomoku2.app/HumanTopLeft.png HumanTopLeft.png
+s320995042.855451
+e320995043.030030
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Gomoku2.app/HumanTopLeft.png
+xHumanTopLeft.png
+lSLF07#2@21"Copy HumanTopLeft.png320995042#320995043#0(0"0(0#0#49"/Users/Administrator/Dev/Gomoku2/HumanTopLeft.png8619509568#456"    cd /Users/Administrator/Dev/Gomoku2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Administrator/Dev/Gomoku2/HumanTopLeft.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app0#
+
+CCpResource build/Debug-iphonesimulator/Gomoku2.app/HumanTopRight.png HumanTopRight.png
+s320995042.854450
+e320995043.029921
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Gomoku2.app/HumanTopRight.png
+xHumanTopRight.png
+lSLF07#2@22"Copy HumanTopRight.png320995042#320995043#0(0"0(0#0#50"/Users/Administrator/Dev/Gomoku2/HumanTopRight.png8622652992#457"    cd /Users/Administrator/Dev/Gomoku2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Administrator/Dev/Gomoku2/HumanTopRight.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app0#
+
+CCpResource build/Debug-iphonesimulator/Gomoku2.app/Icon-72.png Icon-72.png
+s321551153.981327
+e321551154.035534
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Gomoku2.app/Icon-72.png
+xIcon-72.png
+lSLF07#2@16"Copy Icon-72.png321551153#321551154#0(0"0(0#0#44"/Users/Administrator/Dev/Gomoku2/Icon-72.png8617309664#451"    cd /Users/Administrator/Dev/Gomoku2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Administrator/Dev/Gomoku2/Icon-72.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app0#
+
+CGenerateDSYMFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app.dSYM /Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app/Gomoku2
+s321562861.105279
+e321562861.166901
+r1
+xGenerateDSYMFile
+x/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app.dSYM
+x/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app/Gomoku2
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/Gomoku2.app.dSYM build/Debug-iphonesimulator/Gomoku2.app/Gomoku2321562861#321562861#0(0"0(0#0#80"/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app/Gomoku28664062208#365"    cd /Users/Administrator/Dev/Gomoku2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app/Gomoku2 -o /Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app.dSYM0#
+
+CLd /Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app/Gomoku2 normal i386
+s321562861.073699
+e321562861.105142
+r1
+xLd
+x/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app/Gomoku2
+xnormal
+xi386
+lSLF07#2@85"Link /Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app/Gomoku2321562861#321562861#0(0"0(0#0#0"8669925824#870"    cd /Users/Administrator/Dev/Gomoku2    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator -F/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator -filelist /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Objects-normal/i386/Gomoku2.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app/Gomoku20#
+
+CProcessInfoPlistFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app/Info.plist Gomoku2-Info.plist
+s321038339.618605
+e321038339.640563
+r1
+xProcessInfoPlistFile
+x/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app/Info.plist
+xGomoku2-Info.plist
+lSLF07#2@26"Process Gomoku2-Info.plist321038339#321038339#0(0"0(0#0#51"/Users/Administrator/Dev/Gomoku2/Gomoku2-Info.plist8639861696#461"    cd /Users/Administrator/Dev/Gomoku2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Gomoku2-Info.plist -genpkginfo /Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app/Info.plist0#
+
+CProcessPCH /var/folders/Tc/Tc7ROGoiFQCvJRnWVF4Wdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gomoku2_Prefix-emerznxqektxkdbrjowcabfuhifq/Gomoku2_Prefix.pch.gch Gomoku2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s320995043.086746
+e320995045.669388
+r1
+xProcessPCH
+x/var/folders/Tc/Tc7ROGoiFQCvJRnWVF4Wdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gomoku2_Prefix-emerznxqektxkdbrjowcabfuhifq/Gomoku2_Prefix.pch.gch
+xGomoku2_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile Gomoku2_Prefix.pch320995043#320995045#0(0"0(0#0#51"/Users/Administrator/Dev/Gomoku2/Gomoku2_Prefix.pch8616007488#1746"    cd /Users/Administrator/Dev/Gomoku2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Gomoku2-generated-files.hmap -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Gomoku2-own-target-headers.hmap -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Gomoku2-all-target-headers.hmap -iquote /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/Gomoku2-project-headers.hmap -F/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator -I/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/include -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/DerivedSources/i386 -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphonesimulator/Gomoku2.build/DerivedSources -c /Users/Administrator/Dev/Gomoku2/Gomoku2_Prefix.pch -o /var/folders/Tc/Tc7ROGoiFQCvJRnWVF4Wdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gomoku2_Prefix-emerznxqektxkdbrjowcabfuhifq/Gomoku2_Prefix.pch.gch0#
+
+CTouch /Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app
+s321563398.646994
+e321563398.649844
+r1
+xTouch
+x/Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app
+lSLF07#2@78"Touch /Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app321563398#321563398#0(0"0(0#0#0"8603672640#266"    cd /Users/Administrator/Dev/Gomoku2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Administrator/Dev/Gomoku2/build/Debug-iphonesimulator/Gomoku2.app0#
+

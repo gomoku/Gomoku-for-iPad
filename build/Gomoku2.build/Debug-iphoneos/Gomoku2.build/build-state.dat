@@ -1,0 +1,1136 @@
+TGomoku2
+v7
+r0
+t321969421.292911
+cCheck dependencies
+cCpResource build/Debug-iphoneos/Gomoku2.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/Info.plist Gomoku2-Info.plist
+cCompileXIB /Users/Administrator/Dev/Gomoku2/MainWindow.xib
+cCompileXIB /Users/Administrator/Dev/Gomoku2/Gomoku2ViewController.xib
+cCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/HumanTopRight.png HumanTopRight.png
+cCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/HumanTopLeft.png HumanTopLeft.png
+cCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/HumanTop.png HumanTop.png
+cCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/HumanRight.png HumanRight.png
+cCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/HumanLeft.png HumanLeft.png
+cCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/HumanBottomRight.png HumanBottomRight.png
+cCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/HumanBottomLeft.png HumanBottomLeft.png
+cCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/HumanBottom.png HumanBottom.png
+cCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/Human.png Human.png
+cCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/Gomoku.png Gomoku.png
+cCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/EmptyTopRight.png EmptyTopRight.png
+cCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/EmptyTopLeft.png EmptyTopLeft.png
+cCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/EmptyTop.png EmptyTop.png
+cCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/EmptyRight.png EmptyRight.png
+cCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/EmptyLeft.png EmptyLeft.png
+cCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/EmptyBottomRight.png EmptyBottomRight.png
+cCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/EmptyBottomLeft.png EmptyBottomLeft.png
+cCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/EmptyBottom.png EmptyBottom.png
+cCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/Empty.png Empty.png
+cCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/ComputerTopRight.png ComputerTopRight.png
+cCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/ComputerTopLeft.png ComputerTopLeft.png
+cCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/ComputerTop.png ComputerTop.png
+cCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/ComputerRight.png ComputerRight.png
+cCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/ComputerLeft.png ComputerLeft.png
+cCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/ComputerBottomRight.png ComputerBottomRight.png
+cCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/ComputerBottomLeft.png ComputerBottomLeft.png
+cCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/ComputerBottom.png ComputerBottom.png
+cCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/Computer.png Computer.png
+cCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/Default-Landscape.png Default-Landscape.png
+cCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/Icon-72.png Icon-72.png
+cProcessPCH /var/folders/Tc/Tc7ROGoiFQCvJRnWVF4Wdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gomoku2_Prefix-bmqzetlbtkckwueorejahucwrxps/Gomoku2_Prefix.pch.gch Gomoku2_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Objects-normal/armv7/main.o /Users/Administrator/Dev/Gomoku2/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Objects-normal/armv7/Gomoku2AppDelegate.o /Users/Administrator/Dev/Gomoku2/Classes/Gomoku2AppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Objects-normal/armv7/Gomoku2ViewController.o /Users/Administrator/Dev/Gomoku2/Classes/Gomoku2ViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Objects-normal/armv7/Controller.o /Users/Administrator/Dev/Gomoku2/Classes/Controller.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Objects-normal/armv7/Cell.o /Users/Administrator/Dev/Gomoku2/Classes/Cell.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Objects-normal/armv7/MainBoard.o /Users/Administrator/Dev/Gomoku2/Classes/MainBoard.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Objects-normal/armv7/DifficultyPanel.o /Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanel.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Objects-normal/armv7/DifficultyPanelTableController.o /Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/Gomoku2 normal armv7
+cGenerateDSYMFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app.dSYM /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/Gomoku2
+cProcessProductPackaging "/Users/Administrator/Library/MobileDevice/Provisioning Profiles/5D4A455C-E598-43C4-8395-EA047D1F4AD2.mobileprovision" /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/embedded.mobileprovision
+cTouch /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Gomoku2.xcent
+cCodeSign /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004D3487510000000000000110
+t1295288145
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+c000000004CB3DFCF00000000000001A7
+t1286856655
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Users/Administrator/Dev/Gomoku2/Classes/Board.h
+c000000004D71CCA0000000000000101F
+t1299303584
+s4127
+i<Foundation/Foundation.h>
+
+N/Users/Administrator/Dev/Gomoku2/Classes/Board.m
+c000000004D725E5D0000000000003C60
+t1299340893
+s15456
+i"Board.h"
+
+N/Users/Administrator/Dev/Gomoku2/Classes/Cell.h
+c000000004D71CFD00000000000000155
+t1299304400
+s341
+i<UIKit/UIKit.h>
+
+N/Users/Administrator/Dev/Gomoku2/Classes/Cell.m
+c000000004D71CFCA00000000000002FB
+t1299304394
+s763
+i"Cell.h"
+
+N/Users/Administrator/Dev/Gomoku2/Classes/Controller.h
+c000000004D7A552A00000000000006B4
+t1299862826
+s1716
+i"Cell.h"
+i"Board.h"
+i"MainBoard.h"
+i"DifficultyPanel.h"
+
+N/Users/Administrator/Dev/Gomoku2/Classes/Controller.m
+c000000004D7A6DD800000000000011D0
+t1299869144
+s4560
+i"Controller.h"
+i<UIKit/UIKit.h>
+
+N/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanel.h
+c000000004D7A5CB10000000000000254
+t1299864753
+s596
+i<UIKit/UIKit.h>
+i"MainBoard.h"
+i"DifficultyPanelTableController.h"
+
+N/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanel.m
+c000000004D7A70F20000000000000352
+t1299869938
+s850
+i"DifficultyPanel.h"
+
+N/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.h
+c000000004D7A6AA1000000000000031E
+t1299868321
+s798
+i<UIKit/UIKit.h>
+i"DifficultyPanel.h"
+
+N/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m
+c000000004D7A70A200000000000017C0
+t1299869858
+s6080
+i"DifficultyPanelTableController.h"
+
+N/Users/Administrator/Dev/Gomoku2/Classes/Gomoku2AppDelegate.h
+c000000004D71FA1000000000000001E0
+t1299315216
+s480
+i<UIKit/UIKit.h>
+
+N/Users/Administrator/Dev/Gomoku2/Classes/Gomoku2AppDelegate.m
+c000000004D71EF5B00000000000007B6
+t1299312475
+s1974
+i"Gomoku2AppDelegate.h"
+i"Gomoku2ViewController.h"
+
+N/Users/Administrator/Dev/Gomoku2/Classes/Gomoku2ViewController.h
+c000000004D72087B000000000000020C
+t1299318907
+s524
+i<UIKit/UIKit.h>
+i"Controller.h"
+
+N/Users/Administrator/Dev/Gomoku2/Classes/Gomoku2ViewController.m
+c000000004D7A550B0000000000000733
+t1299862795
+s1843
+i"Gomoku2ViewController.h"
+
+N/Users/Administrator/Dev/Gomoku2/Classes/MainBoard.h
+c000000004D725C3E0000000000000A8C
+t1299340350
+s2700
+i"Cell.h"
+i"Board.h"
+
+N/Users/Administrator/Dev/Gomoku2/Classes/MainBoard.m
+c000000004D736A2A0000000000001877
+t1299409450
+s6263
+i"MainBoard.h"
+i"Board.m"
+
+N/Users/Administrator/Dev/Gomoku2/Classes/PopOverPanel.h
+c000000004D7A516900000000000000EB
+t1299861865
+s235
+i<Foundation/Foundation.h>
+
+N/Users/Administrator/Dev/Gomoku2/Classes/PopOverPanel.m
+c000000004D7A515B00000000000000CB
+t1299861851
+s203
+i"PopOverPanel.h"
+
+N/Users/Administrator/Dev/Gomoku2/Computer.png
+c000000003D9F39030000000000000BC5
+t1033844995
+s3013
+
+N/Users/Administrator/Dev/Gomoku2/ComputerBottom.png
+c000000003D9F39030000000000000BBB
+t1033844995
+s3003
+
+N/Users/Administrator/Dev/Gomoku2/ComputerBottomLeft.png
+c000000003D9F39030000000000000BAA
+t1033844995
+s2986
+
+N/Users/Administrator/Dev/Gomoku2/ComputerBottomRight.png
+c000000003D9F39030000000000000BB4
+t1033844995
+s2996
+
+N/Users/Administrator/Dev/Gomoku2/ComputerLeft.png
+c000000003D9F39030000000000000BB5
+t1033844995
+s2997
+
+N/Users/Administrator/Dev/Gomoku2/ComputerRight.png
+c000000003D9F39030000000000000BBD
+t1033844995
+s3005
+
+N/Users/Administrator/Dev/Gomoku2/ComputerTop.png
+c000000003D9F39030000000000000BAE
+t1033844995
+s2990
+
+N/Users/Administrator/Dev/Gomoku2/ComputerTopLeft.png
+c000000003D9F39030000000000000B9C
+t1033844995
+s2972
+
+N/Users/Administrator/Dev/Gomoku2/ComputerTopRight.png
+c000000003D9F39030000000000000BA4
+t1033844995
+s2980
+
+N/Users/Administrator/Dev/Gomoku2/Default-Landscape.png
+c000000004D7A3E7300000000000093F8
+t1299857011
+s37880
+
+N/Users/Administrator/Dev/Gomoku2/Default.png
+c000000004D7A3B9B000000000008DD32
+t1299856283
+s580914
+
+N/Users/Administrator/Dev/Gomoku2/Empty.png
+c000000003D9F39030000000000000735
+t1033844995
+s1845
+
+N/Users/Administrator/Dev/Gomoku2/EmptyBottom.png
+c000000003D9F390300000000000006F6
+t1033844995
+s1782
+
+N/Users/Administrator/Dev/Gomoku2/EmptyBottomLeft.png
+c000000003D9F390300000000000006DF
+t1033844995
+s1759
+
+N/Users/Administrator/Dev/Gomoku2/EmptyBottomRight.png
+c000000003D9F390300000000000006AC
+t1033844995
+s1708
+
+N/Users/Administrator/Dev/Gomoku2/EmptyLeft.png
+c000000003D9F3903000000000000070F
+t1033844995
+s1807
+
+N/Users/Administrator/Dev/Gomoku2/EmptyRight.png
+c000000003D9F390300000000000006D9
+t1033844995
+s1753
+
+N/Users/Administrator/Dev/Gomoku2/EmptyTop.png
+c000000003D9F390300000000000006E6
+t1033844995
+s1766
+
+N/Users/Administrator/Dev/Gomoku2/EmptyTopLeft.png
+c000000003D9F390300000000000006BA
+t1033844995
+s1722
+
+N/Users/Administrator/Dev/Gomoku2/EmptyTopRight.png
+c000000003D9F390300000000000006B1
+t1033844995
+s1713
+
+N/Users/Administrator/Dev/Gomoku2/Gomoku.png
+c000000003D9F39030000000000000D5F
+t1033844995
+s3423
+
+N/Users/Administrator/Dev/Gomoku2/Gomoku2ViewController.xib
+c000000004D7A719600000000000066FD
+t1299870102
+s26365
+
+N/Users/Administrator/Dev/Gomoku2/Gomoku2_Prefix.pch
+c000000004D712C7300000000000000B7
+t1299262579
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Administrator/Dev/Gomoku2/Human.png
+c000000003D9F39030000000000000BCE
+t1033844995
+s3022
+
+N/Users/Administrator/Dev/Gomoku2/HumanBottom.png
+c000000003D9F39030000000000000BC3
+t1033844995
+s3011
+
+N/Users/Administrator/Dev/Gomoku2/HumanBottomLeft.png
+c000000003D9F39030000000000000BB2
+t1033844995
+s2994
+
+N/Users/Administrator/Dev/Gomoku2/HumanBottomRight.png
+c000000003D9F39030000000000000BB7
+t1033844995
+s2999
+
+N/Users/Administrator/Dev/Gomoku2/HumanLeft.png
+c000000003D9F39030000000000000BBC
+t1033844995
+s3004
+
+N/Users/Administrator/Dev/Gomoku2/HumanRight.png
+c000000003D9F39030000000000000BC2
+t1033844995
+s3010
+
+N/Users/Administrator/Dev/Gomoku2/HumanTop.png
+c000000003D9F39030000000000000BBD
+t1033844995
+s3005
+
+N/Users/Administrator/Dev/Gomoku2/HumanTopLeft.png
+c000000003D9F39030000000000000BAB
+t1033844995
+s2987
+
+N/Users/Administrator/Dev/Gomoku2/HumanTopRight.png
+c000000003D9F39030000000000000BB2
+t1033844995
+s2994
+
+N/Users/Administrator/Dev/Gomoku2/IMG_0006.PNG
+c000000004D7A3B9B000000000008DD32
+t1299856283
+s580914
+
+N/Users/Administrator/Dev/Gomoku2/Icon-72.png
+c000000004D7A439D00000000000004C5
+t1299858333
+s1221
+
+N/Users/Administrator/Dev/Gomoku2/MainWindow.xib
+c000000004D712C730000000000004D09
+t1299262579
+s19721
+
+N/Users/Administrator/Dev/Gomoku2/P1070773.JPG
+c000000004D352EA3000000000025E19F
+t1295330979
+s2482591
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app
+t1300276621
+s1428
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app.dSYM
+t1300276620
+s102
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/Computer.png
+t1299323982
+s3697
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/ComputerBottom.png
+t1299323982
+s3681
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/ComputerBottomLeft.png
+t1299323982
+s3652
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/ComputerBottomRight.png
+t1299323982
+s3689
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/ComputerLeft.png
+t1299323982
+s3665
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/ComputerRight.png
+t1299323982
+s3704
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/ComputerTop.png
+t1299323982
+s3673
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/ComputerTopLeft.png
+t1299323982
+s3638
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/ComputerTopRight.png
+t1299323982
+s3677
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/Default-Landscape.png
+t1299857033
+s25894
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/Default.png
+t1299856478
+s634608
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/Empty.png
+t1299323982
+s2732
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/EmptyBottom.png
+t1299323982
+s2468
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/EmptyBottomLeft.png
+t1299323982
+s2425
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/EmptyBottomRight.png
+t1299323982
+s2351
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/EmptyLeft.png
+t1299323982
+s2641
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/EmptyRight.png
+t1299323982
+s2596
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/EmptyTop.png
+t1299323982
+s2575
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/EmptyTopLeft.png
+t1299323982
+s2490
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/EmptyTopRight.png
+t1299323982
+s2490
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/Gomoku.png
+t1299323982
+s3626
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/Gomoku2
+t1300276620
+s64560
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/Gomoku2ViewController.nib
+t1300276617
+s1861
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/Human.png
+t1299323982
+s3769
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/HumanBottom.png
+t1299323982
+s3750
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/HumanBottomLeft.png
+t1299323982
+s3744
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/HumanBottomRight.png
+t1299323982
+s3747
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/HumanLeft.png
+t1299323981
+s3764
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/HumanRight.png
+t1299323981
+s3764
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/HumanTop.png
+t1299323981
+s3763
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/HumanTopLeft.png
+t1299323981
+s3753
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/HumanTopRight.png
+t1299323981
+s3758
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/IMG_0006.PNG
+t2
+s0
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/Icon-72.png
+t1299858373
+s989
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/Info.plist
+t1299345625
+s901
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/MainWindow.nib
+t1299323981
+s1123
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/P1070773.JPG
+t2
+s0
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/PkgInfo
+t1299345625
+s8
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/ResourceRules.plist
+t1299323980
+s485
+
+N/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/embedded.mobileprovision
+t1299323984
+s10014
+
+N/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Gomoku2.xcent
+t1299345626
+s410
+
+N/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Objects-normal/armv7/Cell.o
+t1299323983
+s39164
+
+N/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Objects-normal/armv7/Controller.o
+t1299869164
+s52444
+
+N/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Objects-normal/armv7/DifficultyPanel.o
+t1300276618
+s46476
+
+N/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Objects-normal/armv7/DifficultyPanelTableController.o
+t1300276618
+s50868
+
+N/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Objects-normal/armv7/Gomoku2.LinkFileList
+c000000004D721C4C00000000000003BF
+t1299323980
+s959
+
+N/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Objects-normal/armv7/Gomoku2AppDelegate.o
+t1299868330
+s51052
+
+N/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Objects-normal/armv7/Gomoku2ViewController.o
+t1299868330
+s43740
+
+N/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Objects-normal/armv7/MainBoard.o
+t1299409471
+s80416
+
+N/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Objects-normal/armv7/PopOverPanel.o
+t2
+s0
+
+N/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Objects-normal/armv7/main.o
+t1299323983
+s6420
+
+N/Users/Administrator/Dev/Gomoku2/main.m
+c000000004D712C730000000000000169
+t1299262579
+s361
+i<UIKit/UIKit.h>
+
+N/Users/Administrator/Library/MobileDevice/Provisioning Profiles/5D4A455C-E598-43C4-8395-EA047D1F4AD2.mobileprovision
+c000000004D350C32000000000000271E
+t1295322162
+s10014
+
+N/var/folders/Tc/Tc7ROGoiFQCvJRnWVF4Wdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gomoku2_Prefix-bmqzetlbtkckwueorejahucwrxps/Gomoku2_Prefix.pch.gch
+t1299323983
+s10446552
+
+NGomoku2-Info.plist
+c000000004D7270710000000000000437
+t1299345521
+s1079
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies321969416#321969416#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCodeSign /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app
+s321969420.326186
+e321969421.292708
+r1
+xCodeSign
+x/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app
+lSLF07#2@41"CodeSign build/Debug-iphoneos/Gomoku2.app321969420#321969421#0(0"0(0#0#65"/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app8609404256#629"    cd /Users/Administrator/Dev/Gomoku2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Marian Mihailescu (8LK38VM7LH)" --resource-rules=/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/ResourceRules.plist --entitlements /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Gomoku2.xcent /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app0#
+
+CCompileC build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Objects-normal/armv7/Cell.o /Users/Administrator/Dev/Gomoku2/Classes/Cell.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s321016783.741531
+e321016783.855759
+r1
+xCompileC
+xbuild/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Objects-normal/armv7/Cell.o
+x/Users/Administrator/Dev/Gomoku2/Classes/Cell.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/Administrator/Dev/Gomoku2/Classes/Cell.m321016783#321016783#0(0"0(0#0#47"/Users/Administrator/Dev/Gomoku2/Classes/Cell.m8636465920#1666"    cd /Users/Administrator/Dev/Gomoku2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Gomoku2-generated-files.hmap -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Gomoku2-own-target-headers.hmap -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Gomoku2-all-target-headers.hmap -iquote /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Gomoku2-project-headers.hmap -F/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos -I/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/include -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/DerivedSources/armv7 -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/DerivedSources -include /var/folders/Tc/Tc7ROGoiFQCvJRnWVF4Wdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gomoku2_Prefix-bmqzetlbtkckwueorejahucwrxps/Gomoku2_Prefix.pch -c /Users/Administrator/Dev/Gomoku2/Classes/Cell.m -o /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Objects-normal/armv7/Cell.o0#
+
+CCompileC build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Objects-normal/armv7/Controller.o /Users/Administrator/Dev/Gomoku2/Classes/Controller.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s321561963.960229
+e321561964.281266
+r1
+xCompileC
+xbuild/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Objects-normal/armv7/Controller.o
+x/Users/Administrator/Dev/Gomoku2/Classes/Controller.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/Administrator/Dev/Gomoku2/Classes/Controller.m321561963#321561964#0(0"0(0#0#53"/Users/Administrator/Dev/Gomoku2/Classes/Controller.m8602702304#1678"    cd /Users/Administrator/Dev/Gomoku2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Gomoku2-generated-files.hmap -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Gomoku2-own-target-headers.hmap -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Gomoku2-all-target-headers.hmap -iquote /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Gomoku2-project-headers.hmap -F/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos -I/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/include -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/DerivedSources/armv7 -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/DerivedSources -include /var/folders/Tc/Tc7ROGoiFQCvJRnWVF4Wdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gomoku2_Prefix-bmqzetlbtkckwueorejahucwrxps/Gomoku2_Prefix.pch -c /Users/Administrator/Dev/Gomoku2/Classes/Controller.m -o /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Objects-normal/armv7/Controller.o0#
+
+CCompileC build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Objects-normal/armv7/DifficultyPanel.o /Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanel.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s321969417.587233
+e321969418.825659
+r1
+xCompileC
+xbuild/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Objects-normal/armv7/DifficultyPanel.o
+x/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanel.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanel.m: In function '-[DifficultyPanel initWithBoard:]':
+o/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanel.m:20: warning: incompatible Objective-C types 'struct DifficultyPanel *', expected 'struct DifficultyPanelTableController *' when passing argument 1 of 'initWithDelegate:' from distinct Objective-C type
+lSLF07#2@66"Compile /Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanel.m321969417#321969418#0(369"/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanel.m: In function '-[DifficultyPanel initWithBoard:]':/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanel.m:20: warning: incompatible Objective-C types 'struct DifficultyPanel *', expected 'struct DifficultyPanelTableController *' when passing argument 1 of 'initWithDelegate:' from distinct Objective-C type1(22@187"Incompatible Objective-C types 'struct DifficultyPanel *', expected 'struct DifficultyPanelTableController *' when passing argument 1 of 'initWithDelegate:' from distinct Objective-C type321969418#109#260#0(6@58"/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanel.m321562738#20#0#20#0#0"0(0#0#58"/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanel.m8609652096#1688"    cd /Users/Administrator/Dev/Gomoku2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Gomoku2-generated-files.hmap -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Gomoku2-own-target-headers.hmap -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Gomoku2-all-target-headers.hmap -iquote /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Gomoku2-project-headers.hmap -F/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos -I/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/include -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/DerivedSources/armv7 -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/DerivedSources -include /var/folders/Tc/Tc7ROGoiFQCvJRnWVF4Wdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gomoku2_Prefix-bmqzetlbtkckwueorejahucwrxps/Gomoku2_Prefix.pch -c /Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanel.m -o /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Objects-normal/armv7/DifficultyPanel.o0#
+
+CCompileC build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Objects-normal/armv7/DifficultyPanelTableController.o /Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s321969417.601011
+e321969418.828236
+r1
+xCompileC
+xbuild/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Objects-normal/armv7/DifficultyPanelTableController.o
+x/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m: In function '-[DifficultyPanelTableController tableView:didSelectRowAtIndexPath:]':
+o/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m:172: warning: 'DifficultyPanelTableController' may not respond to '-changeLevel:'
+o/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m:172: warning: (Messages without a matching method signature
+o/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m:172: warning: will be assumed to return 'id' and accept
+o/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m:172: warning: '...' as arguments.)
+o/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m:175: warning: unused variable 'cell'
+o/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m: In function '-[DifficultyPanelTableController setCellSelectedByIndex:]':
+o/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m:184: warning: unused variable 'cell'
+lSLF07#2@81"Compile /Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m321969417#321969418#0(1058"/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m: In function '-[DifficultyPanelTableController tableView:didSelectRowAtIndexPath:]':/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m:172: warning: 'DifficultyPanelTableController' may not respond to '-changeLevel:'/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m:172: warning: (Messages without a matching method signature/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m:172: warning: will be assumed to return 'id' and accept/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m:172: warning: '...' as arguments.)/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m:175: warning: unused variable 'cell'/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m: In function '-[DifficultyPanelTableController setCellSelectedByIndex:]':/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m:184: warning: unused variable 'cell'4(22@67"'DifficultyPanelTableController' may not respond to '-changeLevel:'321969418#159#156#0(6@73"/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m321562658#172#0#172#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)321969418#315#134#0(6@73"/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m321562658#172#0#172#0#0"0(22@22"Unused variable 'cell'321969418#688#111#0(6@73"/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m321562658#175#0#175#0#19"unused variable '*'0(22@22"Unused variable 'cell'321969418#947#111#0(6@73"/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m321562658#184#0#184#0#19"unused variable '*'0(0#0#73"/Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m8606907904#1718"    cd /Users/Administrator/Dev/Gomoku2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Gomoku2-generated-files.hmap -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Gomoku2-own-target-headers.hmap -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Gomoku2-all-target-headers.hmap -iquote /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Gomoku2-project-headers.hmap -F/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos -I/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/include -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/DerivedSources/armv7 -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/DerivedSources -include /var/folders/Tc/Tc7ROGoiFQCvJRnWVF4Wdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gomoku2_Prefix-bmqzetlbtkckwueorejahucwrxps/Gomoku2_Prefix.pch -c /Users/Administrator/Dev/Gomoku2/Classes/DifficultyPanelTableController.m -o /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Objects-normal/armv7/DifficultyPanelTableController.o0#
+
+CCompileC build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Objects-normal/armv7/Gomoku2AppDelegate.o /Users/Administrator/Dev/Gomoku2/Classes/Gomoku2AppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s321561129.998199
+e321561130.095577
+r1
+xCompileC
+xbuild/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Objects-normal/armv7/Gomoku2AppDelegate.o
+x/Users/Administrator/Dev/Gomoku2/Classes/Gomoku2AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/Administrator/Dev/Gomoku2/Classes/Gomoku2AppDelegate.m321561129#321561130#0(0"0(0#0#61"/Users/Administrator/Dev/Gomoku2/Classes/Gomoku2AppDelegate.m8666352736#1694"    cd /Users/Administrator/Dev/Gomoku2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Gomoku2-generated-files.hmap -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Gomoku2-own-target-headers.hmap -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Gomoku2-all-target-headers.hmap -iquote /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Gomoku2-project-headers.hmap -F/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos -I/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/include -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/DerivedSources/armv7 -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/DerivedSources -include /var/folders/Tc/Tc7ROGoiFQCvJRnWVF4Wdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gomoku2_Prefix-bmqzetlbtkckwueorejahucwrxps/Gomoku2_Prefix.pch -c /Users/Administrator/Dev/Gomoku2/Classes/Gomoku2AppDelegate.m -o /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Objects-normal/armv7/Gomoku2AppDelegate.o0#
+
+CCompileC build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Objects-normal/armv7/Gomoku2ViewController.o /Users/Administrator/Dev/Gomoku2/Classes/Gomoku2ViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s321561130.000517
+e321561130.105580
+r1
+xCompileC
+xbuild/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Objects-normal/armv7/Gomoku2ViewController.o
+x/Users/Administrator/Dev/Gomoku2/Classes/Gomoku2ViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/Administrator/Dev/Gomoku2/Classes/Gomoku2ViewController.m321561130#321561130#0(0"0(0#0#64"/Users/Administrator/Dev/Gomoku2/Classes/Gomoku2ViewController.m8648178912#1700"    cd /Users/Administrator/Dev/Gomoku2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Gomoku2-generated-files.hmap -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Gomoku2-own-target-headers.hmap -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Gomoku2-all-target-headers.hmap -iquote /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Gomoku2-project-headers.hmap -F/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos -I/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/include -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/DerivedSources/armv7 -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/DerivedSources -include /var/folders/Tc/Tc7ROGoiFQCvJRnWVF4Wdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gomoku2_Prefix-bmqzetlbtkckwueorejahucwrxps/Gomoku2_Prefix.pch -c /Users/Administrator/Dev/Gomoku2/Classes/Gomoku2ViewController.m -o /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Objects-normal/armv7/Gomoku2ViewController.o0#
+
+CCompileC build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Objects-normal/armv7/MainBoard.o /Users/Administrator/Dev/Gomoku2/Classes/MainBoard.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s321102270.862499
+e321102271.055806
+r1
+xCompileC
+xbuild/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Objects-normal/armv7/MainBoard.o
+x/Users/Administrator/Dev/Gomoku2/Classes/MainBoard.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/Administrator/Dev/Gomoku2/Classes/MainBoard.m321102270#321102271#0(0"0(0#0#52"/Users/Administrator/Dev/Gomoku2/Classes/MainBoard.m8604193312#1676"    cd /Users/Administrator/Dev/Gomoku2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Gomoku2-generated-files.hmap -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Gomoku2-own-target-headers.hmap -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Gomoku2-all-target-headers.hmap -iquote /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Gomoku2-project-headers.hmap -F/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos -I/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/include -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/DerivedSources/armv7 -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/DerivedSources -include /var/folders/Tc/Tc7ROGoiFQCvJRnWVF4Wdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gomoku2_Prefix-bmqzetlbtkckwueorejahucwrxps/Gomoku2_Prefix.pch -c /Users/Administrator/Dev/Gomoku2/Classes/MainBoard.m -o /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Objects-normal/armv7/MainBoard.o0#
+
+CCompileC build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Objects-normal/armv7/PopOverPanel.o /Users/Administrator/Dev/Gomoku2/Classes/PopOverPanel.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Objects-normal/armv7/main.o /Users/Administrator/Dev/Gomoku2/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s321016783.502776
+e321016783.610761
+r1
+xCompileC
+xbuild/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Objects-normal/armv7/main.o
+x/Users/Administrator/Dev/Gomoku2/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/Administrator/Dev/Gomoku2/main.m321016783#321016783#0(0"0(0#0#39"/Users/Administrator/Dev/Gomoku2/main.m8665602368#1658"    cd /Users/Administrator/Dev/Gomoku2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Gomoku2-generated-files.hmap -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Gomoku2-own-target-headers.hmap -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Gomoku2-all-target-headers.hmap -iquote /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Gomoku2-project-headers.hmap -F/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos -I/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/include -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/DerivedSources/armv7 -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/DerivedSources -include /var/folders/Tc/Tc7ROGoiFQCvJRnWVF4Wdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gomoku2_Prefix-bmqzetlbtkckwueorejahucwrxps/Gomoku2_Prefix.pch -c /Users/Administrator/Dev/Gomoku2/main.m -o /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/Administrator/Dev/Gomoku2/Gomoku2ViewController.xib
+s321969416.920086
+e321969417.584865
+r1
+xCompileXIB
+x/Users/Administrator/Dev/Gomoku2/Gomoku2ViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@36"CompileXIB Gomoku2ViewController.xib321969416#321969417#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#58"/Users/Administrator/Dev/Gomoku2/Gomoku2ViewController.xib30118299256553584#546"    cd /Users/Administrator/Dev/Gomoku2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/Gomoku2ViewController.nib /Users/Administrator/Dev/Gomoku2/Gomoku2ViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Users/Administrator/Dev/Gomoku2/MainWindow.xib
+s321016780.485055
+e321016781.383069
+r1
+xCompileXIB
+x/Users/Administrator/Dev/Gomoku2/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib321016780#321016781#0(0"0(0#0#47"/Users/Administrator/Dev/Gomoku2/MainWindow.xib8619853920#524"    cd /Users/Administrator/Dev/Gomoku2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/MainWindow.nib /Users/Administrator/Dev/Gomoku2/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/Computer.png Computer.png
+s321016782.365955
+e321016782.393645
+r1
+xCopyPNGFile
+x/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/Computer.png
+xComputer.png
+lSLF07#2@70"CopyPNGFile build/Debug-iphoneos/Gomoku2.app/Computer.png Computer.png321016782#321016782#0(0"0(0#0#45"/Users/Administrator/Dev/Gomoku2/Computer.png8607158400#546"    cd /Users/Administrator/Dev/Gomoku2    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Administrator/Dev/Gomoku2/Computer.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/Computer.png0#
+
+CCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/ComputerBottom.png ComputerBottom.png
+s321016782.334025
+e321016782.365855
+r1
+xCopyPNGFile
+x/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/ComputerBottom.png
+xComputerBottom.png
+lSLF07#2@82"CopyPNGFile build/Debug-iphoneos/Gomoku2.app/ComputerBottom.png ComputerBottom.png321016782#321016782#0(0"0(0#0#51"/Users/Administrator/Dev/Gomoku2/ComputerBottom.png8607660928#558"    cd /Users/Administrator/Dev/Gomoku2    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Administrator/Dev/Gomoku2/ComputerBottom.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/ComputerBottom.png0#
+
+CCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/ComputerBottomLeft.png ComputerBottomLeft.png
+s321016782.332648
+e321016782.367031
+r1
+xCopyPNGFile
+x/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/ComputerBottomLeft.png
+xComputerBottomLeft.png
+lSLF07#2@90"CopyPNGFile build/Debug-iphoneos/Gomoku2.app/ComputerBottomLeft.png ComputerBottomLeft.png321016782#321016782#0(0"0(0#0#55"/Users/Administrator/Dev/Gomoku2/ComputerBottomLeft.png8615363136#566"    cd /Users/Administrator/Dev/Gomoku2    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Administrator/Dev/Gomoku2/ComputerBottomLeft.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/ComputerBottomLeft.png0#
+
+CCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/ComputerBottomRight.png ComputerBottomRight.png
+s321016782.299944
+e321016782.333933
+r1
+xCopyPNGFile
+x/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/ComputerBottomRight.png
+xComputerBottomRight.png
+lSLF07#2@92"CopyPNGFile build/Debug-iphoneos/Gomoku2.app/ComputerBottomRight.png ComputerBottomRight.png321016782#321016782#0(0"0(0#0#56"/Users/Administrator/Dev/Gomoku2/ComputerBottomRight.png8616195840#568"    cd /Users/Administrator/Dev/Gomoku2    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Administrator/Dev/Gomoku2/ComputerBottomRight.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/ComputerBottomRight.png0#
+
+CCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/ComputerLeft.png ComputerLeft.png
+s321016782.298950
+e321016782.332540
+r1
+xCopyPNGFile
+x/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/ComputerLeft.png
+xComputerLeft.png
+lSLF07#2@78"CopyPNGFile build/Debug-iphoneos/Gomoku2.app/ComputerLeft.png ComputerLeft.png321016782#321016782#0(0"0(0#0#49"/Users/Administrator/Dev/Gomoku2/ComputerLeft.png8616781120#554"    cd /Users/Administrator/Dev/Gomoku2    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Administrator/Dev/Gomoku2/ComputerLeft.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/ComputerLeft.png0#
+
+CCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/ComputerRight.png ComputerRight.png
+s321016782.267044
+e321016782.299871
+r1
+xCopyPNGFile
+x/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/ComputerRight.png
+xComputerRight.png
+lSLF07#2@80"CopyPNGFile build/Debug-iphoneos/Gomoku2.app/ComputerRight.png ComputerRight.png321016782#321016782#0(0"0(0#0#50"/Users/Administrator/Dev/Gomoku2/ComputerRight.png8617237376#556"    cd /Users/Administrator/Dev/Gomoku2    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Administrator/Dev/Gomoku2/ComputerRight.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/ComputerRight.png0#
+
+CCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/ComputerTop.png ComputerTop.png
+s321016782.265861
+e321016782.298849
+r1
+xCopyPNGFile
+x/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/ComputerTop.png
+xComputerTop.png
+lSLF07#2@76"CopyPNGFile build/Debug-iphoneos/Gomoku2.app/ComputerTop.png ComputerTop.png321016782#321016782#0(0"0(0#0#48"/Users/Administrator/Dev/Gomoku2/ComputerTop.png8617508544#552"    cd /Users/Administrator/Dev/Gomoku2    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Administrator/Dev/Gomoku2/ComputerTop.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/ComputerTop.png0#
+
+CCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/ComputerTopLeft.png ComputerTopLeft.png
+s321016782.232711
+e321016782.266868
+r1
+xCopyPNGFile
+x/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/ComputerTopLeft.png
+xComputerTopLeft.png
+lSLF07#2@84"CopyPNGFile build/Debug-iphoneos/Gomoku2.app/ComputerTopLeft.png ComputerTopLeft.png321016782#321016782#0(0"0(0#0#52"/Users/Administrator/Dev/Gomoku2/ComputerTopLeft.png8618039808#560"    cd /Users/Administrator/Dev/Gomoku2    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Administrator/Dev/Gomoku2/ComputerTopLeft.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/ComputerTopLeft.png0#
+
+CCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/ComputerTopRight.png ComputerTopRight.png
+s321016782.230770
+e321016782.265735
+r1
+xCopyPNGFile
+x/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/ComputerTopRight.png
+xComputerTopRight.png
+lSLF07#2@86"CopyPNGFile build/Debug-iphoneos/Gomoku2.app/ComputerTopRight.png ComputerTopRight.png321016782#321016782#0(0"0(0#0#53"/Users/Administrator/Dev/Gomoku2/ComputerTopRight.png8619501888#562"    cd /Users/Administrator/Dev/Gomoku2    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Administrator/Dev/Gomoku2/ComputerTopRight.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/ComputerTopRight.png0#
+
+CCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/Default-Landscape.png Default-Landscape.png
+s321549832.697208
+e321549833.123012
+r1
+xCopyPNGFile
+x/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/Default-Landscape.png
+xDefault-Landscape.png
+lSLF07#2@88"CopyPNGFile build/Debug-iphoneos/Gomoku2.app/Default-Landscape.png Default-Landscape.png321549832#321549833#0(0"0(0#0#54"/Users/Administrator/Dev/Gomoku2/Default-Landscape.png8607926912#564"    cd /Users/Administrator/Dev/Gomoku2    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Administrator/Dev/Gomoku2/Default-Landscape.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/Default-Landscape.png0#
+
+CCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/Default.png Default.png
+s321549274.712907
+e321549278.064309
+r1
+xCopyPNGFile
+x/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/Default.png
+xDefault.png
+lSLF07#2@68"CopyPNGFile build/Debug-iphoneos/Gomoku2.app/Default.png Default.png321549274#321549278#0(0"0(0#0#44"/Users/Administrator/Dev/Gomoku2/Default.png31525614006435888#544"    cd /Users/Administrator/Dev/Gomoku2    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Administrator/Dev/Gomoku2/Default.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/Default.png0#
+
+CCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/Empty.png Empty.png
+s321016782.198432
+e321016782.230656
+r1
+xCopyPNGFile
+x/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/Empty.png
+xEmpty.png
+lSLF07#2@64"CopyPNGFile build/Debug-iphoneos/Gomoku2.app/Empty.png Empty.png321016782#321016782#0(0"0(0#0#42"/Users/Administrator/Dev/Gomoku2/Empty.png8620059424#540"    cd /Users/Administrator/Dev/Gomoku2    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Administrator/Dev/Gomoku2/Empty.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/Empty.png0#
+
+CCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/EmptyBottom.png EmptyBottom.png
+s321016782.196495
+e321016782.232625
+r1
+xCopyPNGFile
+x/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/EmptyBottom.png
+xEmptyBottom.png
+lSLF07#2@76"CopyPNGFile build/Debug-iphoneos/Gomoku2.app/EmptyBottom.png EmptyBottom.png321016782#321016782#0(0"0(0#0#48"/Users/Administrator/Dev/Gomoku2/EmptyBottom.png8623547072#552"    cd /Users/Administrator/Dev/Gomoku2    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Administrator/Dev/Gomoku2/EmptyBottom.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/EmptyBottom.png0#
+
+CCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/EmptyBottomLeft.png EmptyBottomLeft.png
+s321016782.164183
+e321016782.198342
+r1
+xCopyPNGFile
+x/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/EmptyBottomLeft.png
+xEmptyBottomLeft.png
+lSLF07#2@84"CopyPNGFile build/Debug-iphoneos/Gomoku2.app/EmptyBottomLeft.png EmptyBottomLeft.png321016782#321016782#0(0"0(0#0#52"/Users/Administrator/Dev/Gomoku2/EmptyBottomLeft.png8618210976#560"    cd /Users/Administrator/Dev/Gomoku2    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Administrator/Dev/Gomoku2/EmptyBottomLeft.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/EmptyBottomLeft.png0#
+
+CCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/EmptyBottomRight.png EmptyBottomRight.png
+s321016782.162048
+e321016782.196395
+r1
+xCopyPNGFile
+x/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/EmptyBottomRight.png
+xEmptyBottomRight.png
+lSLF07#2@86"CopyPNGFile build/Debug-iphoneos/Gomoku2.app/EmptyBottomRight.png EmptyBottomRight.png321016782#321016782#0(0"0(0#0#53"/Users/Administrator/Dev/Gomoku2/EmptyBottomRight.png8620011872#562"    cd /Users/Administrator/Dev/Gomoku2    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Administrator/Dev/Gomoku2/EmptyBottomRight.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/EmptyBottomRight.png0#
+
+CCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/EmptyLeft.png EmptyLeft.png
+s321016782.123968
+e321016782.161948
+r1
+xCopyPNGFile
+x/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/EmptyLeft.png
+xEmptyLeft.png
+lSLF07#2@72"CopyPNGFile build/Debug-iphoneos/Gomoku2.app/EmptyLeft.png EmptyLeft.png321016782#321016782#0(0"0(0#0#46"/Users/Administrator/Dev/Gomoku2/EmptyLeft.png8627654272#548"    cd /Users/Administrator/Dev/Gomoku2    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Administrator/Dev/Gomoku2/EmptyLeft.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/EmptyLeft.png0#
+
+CCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/EmptyRight.png EmptyRight.png
+s321016782.122874
+e321016782.164096
+r1
+xCopyPNGFile
+x/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/EmptyRight.png
+xEmptyRight.png
+lSLF07#2@74"CopyPNGFile build/Debug-iphoneos/Gomoku2.app/EmptyRight.png EmptyRight.png321016782#321016782#0(0"0(0#0#47"/Users/Administrator/Dev/Gomoku2/EmptyRight.png8634239168#550"    cd /Users/Administrator/Dev/Gomoku2    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Administrator/Dev/Gomoku2/EmptyRight.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/EmptyRight.png0#
+
+CCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/EmptyTop.png EmptyTop.png
+s321016782.089928
+e321016782.123894
+r1
+xCopyPNGFile
+x/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/EmptyTop.png
+xEmptyTop.png
+lSLF07#2@70"CopyPNGFile build/Debug-iphoneos/Gomoku2.app/EmptyTop.png EmptyTop.png321016782#321016782#0(0"0(0#0#45"/Users/Administrator/Dev/Gomoku2/EmptyTop.png8635008576#546"    cd /Users/Administrator/Dev/Gomoku2    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Administrator/Dev/Gomoku2/EmptyTop.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/EmptyTop.png0#
+
+CCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/EmptyTopLeft.png EmptyTopLeft.png
+s321016782.086412
+e321016782.122771
+r1
+xCopyPNGFile
+x/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/EmptyTopLeft.png
+xEmptyTopLeft.png
+lSLF07#2@78"CopyPNGFile build/Debug-iphoneos/Gomoku2.app/EmptyTopLeft.png EmptyTopLeft.png321016782#321016782#0(0"0(0#0#49"/Users/Administrator/Dev/Gomoku2/EmptyTopLeft.png8635681248#554"    cd /Users/Administrator/Dev/Gomoku2    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Administrator/Dev/Gomoku2/EmptyTopLeft.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/EmptyTopLeft.png0#
+
+CCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/EmptyTopRight.png EmptyTopRight.png
+s321016782.056273
+e321016782.089828
+r1
+xCopyPNGFile
+x/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/EmptyTopRight.png
+xEmptyTopRight.png
+lSLF07#2@80"CopyPNGFile build/Debug-iphoneos/Gomoku2.app/EmptyTopRight.png EmptyTopRight.png321016782#321016782#0(0"0(0#0#50"/Users/Administrator/Dev/Gomoku2/EmptyTopRight.png8636253344#556"    cd /Users/Administrator/Dev/Gomoku2    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Administrator/Dev/Gomoku2/EmptyTopRight.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/EmptyTopRight.png0#
+
+CCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/Gomoku.png Gomoku.png
+s321016782.051169
+e321016782.086315
+r1
+xCopyPNGFile
+x/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/Gomoku.png
+xGomoku.png
+lSLF07#2@66"CopyPNGFile build/Debug-iphoneos/Gomoku2.app/Gomoku.png Gomoku.png321016782#321016782#0(0"0(0#0#43"/Users/Administrator/Dev/Gomoku2/Gomoku.png8636449376#542"    cd /Users/Administrator/Dev/Gomoku2    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Administrator/Dev/Gomoku2/Gomoku.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/Gomoku.png0#
+
+CCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/Human.png Human.png
+s321016782.023491
+e321016782.056174
+r1
+xCopyPNGFile
+x/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/Human.png
+xHuman.png
+lSLF07#2@64"CopyPNGFile build/Debug-iphoneos/Gomoku2.app/Human.png Human.png321016782#321016782#0(0"0(0#0#42"/Users/Administrator/Dev/Gomoku2/Human.png8637539744#540"    cd /Users/Administrator/Dev/Gomoku2    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Administrator/Dev/Gomoku2/Human.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/Human.png0#
+
+CCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/HumanBottom.png HumanBottom.png
+s321016782.014504
+e321016782.051063
+r1
+xCopyPNGFile
+x/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/HumanBottom.png
+xHumanBottom.png
+lSLF07#2@76"CopyPNGFile build/Debug-iphoneos/Gomoku2.app/HumanBottom.png HumanBottom.png321016782#321016782#0(0"0(0#0#48"/Users/Administrator/Dev/Gomoku2/HumanBottom.png8637975712#552"    cd /Users/Administrator/Dev/Gomoku2    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Administrator/Dev/Gomoku2/HumanBottom.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/HumanBottom.png0#
+
+CCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/HumanBottomLeft.png HumanBottomLeft.png
+s321016781.985384
+e321016782.023386
+r1
+xCopyPNGFile
+x/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/HumanBottomLeft.png
+xHumanBottomLeft.png
+lSLF07#2@84"CopyPNGFile build/Debug-iphoneos/Gomoku2.app/HumanBottomLeft.png HumanBottomLeft.png321016781#321016782#0(0"0(0#0#52"/Users/Administrator/Dev/Gomoku2/HumanBottomLeft.png8653011456#560"    cd /Users/Administrator/Dev/Gomoku2    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Administrator/Dev/Gomoku2/HumanBottomLeft.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/HumanBottomLeft.png0#
+
+CCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/HumanBottomRight.png HumanBottomRight.png
+s321016781.975313
+e321016782.014405
+r1
+xCopyPNGFile
+x/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/HumanBottomRight.png
+xHumanBottomRight.png
+lSLF07#2@86"CopyPNGFile build/Debug-iphoneos/Gomoku2.app/HumanBottomRight.png HumanBottomRight.png321016781#321016782#0(0"0(0#0#53"/Users/Administrator/Dev/Gomoku2/HumanBottomRight.png8653815616#562"    cd /Users/Administrator/Dev/Gomoku2    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Administrator/Dev/Gomoku2/HumanBottomRight.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/HumanBottomRight.png0#
+
+CCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/HumanLeft.png HumanLeft.png
+s321016781.936164
+e321016781.985284
+r1
+xCopyPNGFile
+x/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/HumanLeft.png
+xHumanLeft.png
+lSLF07#2@72"CopyPNGFile build/Debug-iphoneos/Gomoku2.app/HumanLeft.png HumanLeft.png321016781#321016781#0(0"0(0#0#46"/Users/Administrator/Dev/Gomoku2/HumanLeft.png8657538464#548"    cd /Users/Administrator/Dev/Gomoku2    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Administrator/Dev/Gomoku2/HumanLeft.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/HumanLeft.png0#
+
+CCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/HumanRight.png HumanRight.png
+s321016781.914437
+e321016781.975213
+r1
+xCopyPNGFile
+x/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/HumanRight.png
+xHumanRight.png
+lSLF07#2@74"CopyPNGFile build/Debug-iphoneos/Gomoku2.app/HumanRight.png HumanRight.png321016781#321016781#0(0"0(0#0#47"/Users/Administrator/Dev/Gomoku2/HumanRight.png8673067744#550"    cd /Users/Administrator/Dev/Gomoku2    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Administrator/Dev/Gomoku2/HumanRight.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/HumanRight.png0#
+
+CCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/HumanTop.png HumanTop.png
+s321016781.886800
+e321016781.936061
+r1
+xCopyPNGFile
+x/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/HumanTop.png
+xHumanTop.png
+lSLF07#2@70"CopyPNGFile build/Debug-iphoneos/Gomoku2.app/HumanTop.png HumanTop.png321016781#321016781#0(0"0(0#0#45"/Users/Administrator/Dev/Gomoku2/HumanTop.png8619372000#546"    cd /Users/Administrator/Dev/Gomoku2    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Administrator/Dev/Gomoku2/HumanTop.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/HumanTop.png0#
+
+CCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/HumanTopLeft.png HumanTopLeft.png
+s321016781.444408
+e321016781.914337
+r1
+xCopyPNGFile
+x/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/HumanTopLeft.png
+xHumanTopLeft.png
+lSLF07#2@78"CopyPNGFile build/Debug-iphoneos/Gomoku2.app/HumanTopLeft.png HumanTopLeft.png321016781#321016781#0(0"0(0#0#49"/Users/Administrator/Dev/Gomoku2/HumanTopLeft.png8626125600#554"    cd /Users/Administrator/Dev/Gomoku2    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Administrator/Dev/Gomoku2/HumanTopLeft.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/HumanTopLeft.png0#
+
+CCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/HumanTopRight.png HumanTopRight.png
+s321016781.383169
+e321016781.886538
+r1
+xCopyPNGFile
+x/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/HumanTopRight.png
+xHumanTopRight.png
+lSLF07#2@80"CopyPNGFile build/Debug-iphoneos/Gomoku2.app/HumanTopRight.png HumanTopRight.png321016781#321016781#0(0"0(0#0#50"/Users/Administrator/Dev/Gomoku2/HumanTopRight.png8632246848#556"    cd /Users/Administrator/Dev/Gomoku2    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Administrator/Dev/Gomoku2/HumanTopRight.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/HumanTopRight.png0#
+
+CCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/IMG_0006.PNG IMG_0006.PNG
+r0
+
+CCopyPNGFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/Icon-72.png Icon-72.png
+s321551173.733559
+e321551173.887249
+r1
+xCopyPNGFile
+x/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/Icon-72.png
+xIcon-72.png
+lSLF07#2@68"CopyPNGFile build/Debug-iphoneos/Gomoku2.app/Icon-72.png Icon-72.png321551173#321551173#0(0"0(0#0#44"/Users/Administrator/Dev/Gomoku2/Icon-72.png8613842080#544"    cd /Users/Administrator/Dev/Gomoku2    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Administrator/Dev/Gomoku2/Icon-72.png /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/Icon-72.png0#
+
+CCpResource build/Debug-iphoneos/Gomoku2.app/P1070773.JPG P1070773.JPG
+r0
+
+CCpResource build/Debug-iphoneos/Gomoku2.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+s321016780.382412
+e321016780.484954
+r1
+xCpResource
+xbuild/Debug-iphoneos/Gomoku2.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist321016780#321016780#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist8623796576#482"    cd /Users/Administrator/Dev/Gomoku2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app0#
+
+CGenerateDSYMFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app.dSYM /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/Gomoku2
+s321969420.205465
+e321969420.291685
+r1
+xGenerateDSYMFile
+x/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app.dSYM
+x/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/Gomoku2
+lSLF07#2@95"GenerateDSYMFile build/Debug-iphoneos/Gomoku2.app.dSYM build/Debug-iphoneos/Gomoku2.app/Gomoku2321969420#321969420#0(0"0(0#0#73"/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/Gomoku28610982528#344"    cd /Users/Administrator/Dev/Gomoku2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/Gomoku2 -o /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app.dSYM0#
+
+CLd /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/Gomoku2 normal armv7
+s321969418.828389
+e321969420.205348
+r1
+xLd
+x/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/Gomoku2
+xnormal
+xarmv7
+lSLF07#2@78"Link /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/Gomoku2321969418#321969420#0(0"0(0#0#0"30681249207484464#792"    cd /Users/Administrator/Dev/Gomoku2    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos -F/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos -filelist /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Objects-normal/armv7/Gomoku2.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/Gomoku20#
+
+CProcessInfoPlistFile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/Info.plist Gomoku2-Info.plist
+s321038425.914058
+e321038425.929907
+r1
+xProcessInfoPlistFile
+x/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/Info.plist
+xGomoku2-Info.plist
+lSLF07#2@26"Process Gomoku2-Info.plist321038425#321038425#0(0"0(0#0#51"/Users/Administrator/Dev/Gomoku2/Gomoku2-Info.plist8663115584#538"    cd /Users/Administrator/Dev/Gomoku2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Gomoku2-Info.plist -genpkginfo /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/ResourceRules.plist -o /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/Info.plist0#
+
+CProcessPCH /var/folders/Tc/Tc7ROGoiFQCvJRnWVF4Wdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gomoku2_Prefix-bmqzetlbtkckwueorejahucwrxps/Gomoku2_Prefix.pch.gch Gomoku2_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s321016782.393797
+e321016783.502533
+r1
+xProcessPCH
+x/var/folders/Tc/Tc7ROGoiFQCvJRnWVF4Wdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gomoku2_Prefix-bmqzetlbtkckwueorejahucwrxps/Gomoku2_Prefix.pch.gch
+xGomoku2_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile Gomoku2_Prefix.pch321016782#321016783#0(0"0(0#0#51"/Users/Administrator/Dev/Gomoku2/Gomoku2_Prefix.pch8604489408#1562"    cd /Users/Administrator/Dev/Gomoku2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Gomoku2-generated-files.hmap -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Gomoku2-own-target-headers.hmap -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Gomoku2-all-target-headers.hmap -iquote /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Gomoku2-project-headers.hmap -F/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos -I/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/include -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/DerivedSources/armv7 -I/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/DerivedSources -c /Users/Administrator/Dev/Gomoku2/Gomoku2_Prefix.pch -o /var/folders/Tc/Tc7ROGoiFQCvJRnWVF4Wdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gomoku2_Prefix-bmqzetlbtkckwueorejahucwrxps/Gomoku2_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/Administrator/Library/MobileDevice/Provisioning Profiles/5D4A455C-E598-43C4-8395-EA047D1F4AD2.mobileprovision" /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/embedded.mobileprovision
+s321016784.545194
+e321016784.574469
+r1
+xProcessProductPackaging
+x/Users/Administrator/Library/MobileDevice/Provisioning Profiles/5D4A455C-E598-43C4-8395-EA047D1F4AD2.mobileprovision
+x/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/embedded.mobileprovision
+lSLF07#2@200"ProcessProductPackaging "/Users/Administrator/Library/MobileDevice/Provisioning Profiles/5D4A455C-E598-43C4-8395-EA047D1F4AD2.mobileprovision" build/Debug-iphoneos/Gomoku2.app/embedded.mobileprovision321016784#321016784#0(0"0(0#0#90"/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/embedded.mobileprovision8664774400#419"    cd /Users/Administrator/Dev/Gomoku2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/Administrator/Library/MobileDevice/Provisioning Profiles/5D4A455C-E598-43C4-8395-EA047D1F4AD2.mobileprovision" -o /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Gomoku2.xcent
+s321038426.634223
+e321038426.667258
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+x/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Gomoku2.xcent
+lSLF07#2@175"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Gomoku2.xcent321038426#321038426#0(0"0(0#0#95"/Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Gomoku2.xcent8617306880#420"    cd /Users/Administrator/Dev/Gomoku2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist -entitlements -format xml -o /Users/Administrator/Dev/Gomoku2/build/Gomoku2.build/Debug-iphoneos/Gomoku2.build/Gomoku2.xcent0#
+
+CTouch /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app
+s321969420.291952
+e321969420.325925
+r1
+xTouch
+x/Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app
+lSLF07#2@71"Touch /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app321969420#321969420#0(0"0(0#0#0"8601020832#252"    cd /Users/Administrator/Dev/Gomoku2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Administrator/Dev/Gomoku2/build/Debug-iphoneos/Gomoku2.app0#
+
